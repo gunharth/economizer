@@ -24,7 +24,7 @@ $nav = "unsere-kunden";
                             Es wird schwer sein, Biogasanlagen zukünftig ohne ECONOMIZER SE zu betreiben.
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
-                        <hr class="d-block d-lg-none" />
+                        <hr class="d-block d-md-none" />
                     </div>
 
                     <div class="col-md-8 col-xxl-9">
