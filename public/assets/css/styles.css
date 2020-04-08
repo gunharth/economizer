@@ -1,0 +1,187 @@
+
+/******************/
+/* FRONTENT ONLY  */
+/******************/
+
+	/******************/
+	/* Main Site Tags */
+	/******************/
+
+    body { color: #000; font-family: Arial, Verdana, sans-serif; font-size:12px; background-color: #fff; margin: 0px; height: 100%;}
+    .f-topbar-fixed {padding-top: 0 !important;}
+    
+	/******************/
+	/* Main Menu      */
+	/******************/
+	
+    /* LEVEL 1 */
+        /* surrounding div if needed */
+        #levelOnecontainer { margin: 0;}
+        
+        /* ul styles */
+        #levelOne { margin: 0; padding: 0; list-style-type: none; }
+        
+        #levelOne li { margin: 0; padding: 0; display: block; text-transform: uppercase; }
+        
+        #levelOne a, #levelOne a:link, #levelOne a:visited  { padding: 0; font-size: 14px; font-weight: normal; font-style: italic; text-decoration: none; font-family: Lato;  }
+        #levelOne a:hover { text-decoration:none; }
+		#levelOne a.active, #footer-text a.active { color: #ccc;  }
+
+
+        
+       #active a:link, #active a:visited, #active a:hover {
+			color: #fff;
+            background-color: #d6d322;
+			background-image: url(../../templates/ferdinandeum/img/arrow_wg.html);
+            line-height: 28px;
+		}
+        
+        
+        
+        /* LEVEL 2 */
+        /* surrounding div if needed */
+        #levelTwocontainer { padding: 8px;
+        background-color: #d6d322;
+        }
+        
+        /* ul styles */
+        #levelTwo {
+            padding: 0;
+            margin: 0;
+        }
+        
+        #levelTwo li {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: inline;
+        text-transform: uppercase;
+        }
+        
+        #levelTwo a, #levelTwo a:link, #levelTwo a:visited  { padding: 4px 7px 8px 17px; color: #000; font-size: 11px; text-decoration: none; letter-spacing: 1px; background-image: url(../../templates/ferdinandeum/img/arrow_wg.html); background-repeat: no-repeat; background-position: 4px 8px; line-height: 20px;}
+        #levelTwo a:hover { padding: 4px 7px 8px 17px; text-decoration:none; color: #9e0b0f; letter-spacing: 1px;
+background: url(../../templates/ferdinandeum/img/arrow_rg.html);
+background-repeat: no-repeat;
+background-position: 4px 8px; line-height: 20px;
+}
+        #activeTwo a, #activeTwo a:link, #activeTwo a:visited, #activeTwo a:active, #activeTwo a:hover {
+			background-image: url(../../templates/ferdinandeum/img/arrow_rg.html);
+            color: #9e0b0f;
+            line-height: 20px;
+		}
+        a.rot:visited { outline: none; color: #9e0b0f;}
+
+form { margin: 0; padding: 0; }
+.search { width: 98px; margin: 0; padding 0; border: 1px solid #ccc; color: #000; font-family: Arial, Verdana, sans-serif; font-size:12px; }
+.search-long { width: 200px; margin: 0; padding 0; border: 1px solid #ccc; color: #000; font-family: Arial, Verdana, sans-serif; font-size:12px; }
+        
+
+
+/*******************/
+/* FRONTENT & CMS  */
+/*******************/
+
+	p,td { font-size: 1em; margin: 0px; padding: 0px; line-height: 1.75em; }
+	ul,ol,li,form { margin-top: 0px; /*margin-bottom: 5px;*/  }
+	
+	a, a:visited, a:active	{ outline: none; color: #161616; }
+	a:hover { color: #ccc;} 
+    .contentBox a {text-decoration: underline;}
+	
+	h1 { color: #000; font-family: Lato; font-size: 1em; line-height: 1.75; margin: 1.75em 0 0; padding: 0; font-weight: normal; font-style: italic; }
+    h2 { color: #9e0b0f; font-family: Lato; font-size: 12px; line-height: 1.2; margin: 0 0 0.2em 0; padding: 0; font-weight: normal; }
+    h3 { color: #000; font-family: Lato; font-size: 12px; margin: 0; padding:0 0 2px 0; font-weight: normal;  }
+    h4 { color: #9e0b0f; font-family: Lato; font-size: 12px; margin: 0; padding:0 0 2px 0; font-weight: normal;  }
+    .contentBox h2 { font-weight: bold;}
+
+    .page-title { color: #c9c916; font-size: 28px; line-height: 1; margin: 1em 0; padding: 0; font-weight: 600; font-family: Jura; }
+    .page-title span {display: inline-block; font-size: 17px;}
+
+	hr {  background-color: #c9c916; border: 0; height: 1px; margin: 10px 0 10px -15px; width: 165px; }
+	
+
+	/**********************/
+	/* CMS Style Dropdown */
+	/**********************/
+	
+	/* FONTS */
+	.rot { color: #9e0b0f }
+    .rot a, .rot a:active, .rot a:visited { outline: none; color: #9e0b0f;}
+	.rot a:hover { color: #000; } 
+    #cmsarea2 > p.gruene-links { color: #c9c916; font-size: 11px;  margin: 0; padding: 10px 10px; font-weight: normal; letter-spacing: 1px; border-top: 1px solid; }
+    /* #cmsarea2 > p.gruene-links:last-child { border-bottom: 1px solid;} */
+    .gruene-links a, .gruene-links a:visited, .gruene-links a:active	{ outline: none; color: #c9c916; text-decoration: none;}
+	.gruene-links a:hover { color: #9e0b0f; text-decoration: none;} 
+    .green-line { background-color: #c9c916; width: 165px; margin: 10px 0 10px 0; font-size: 0; display: none;}
+    * html .green-line { width: 165px; position: relative}
+    .link-flaeche { background-color: #9e0b0f; cursor: pointer; padding: 10px;}
+    
+    .pretty-hover { background-color: #c9c916; }
+    .image-default { border: 2px solid #fff; }
+    .image-hover { border: 2px solid #c9c916; }
+        
+	.mehrdazu-outer {
+        /*width: 100px;*/
+        /*overflow: visible;*/
+        float: right;
+    	}
+    .mehrdazu {
+        background-image: url(../img/link_arrow_over.jpg);
+        background-repeat: no-repeat;
+        /*background-position: 72px 0px;*/
+        background-position: right 0px;
+        display: block;
+        height: 25px;
+        padding-top: 5px;
+        padding-right: 35px;
+    }
+    .mehrdazu-outer a, .mehrdazu-outer a:visited, .mehrdazu-outer a:active	{ outline: none; color: #9e0b0f; text-decoration: none;}
+	.mehrdazu-outer a:hover { color: #c9c916; text-decoration: none;}
+    
+    .back-outer {
+        width: 500px;
+    	}
+    .back-outer .back {
+        background-image: url(../img/link_arrow_over2.jpg);
+        background-repeat: no-repeat;
+        background-position: 0px 0px;
+        display: block;
+        height: 25px;
+        padding-left: 35px;
+        padding-top: 5px;
+    }
+    .back-outer a, .back-outer a:visited, .back-outer a:active	{ outline: none; color: #9e0b0f; text-decoration: none;}
+	.back-outer a:hover { color: #c9c916; text-decoration: none;} 
+    
+    
+    .uebersicht {
+        background-image: url(../img/link_arrow_over.jpg);
+        background-repeat: no-repeat;
+        /*background-position: 72px 0px;*/
+        background-position: left 0px;
+        display: block;
+        height: 25px;
+        padding-top: 3px;
+        padding-left: 35px;
+    }
+    .uebersicht-outer a, .uebersicht-outer a:visited, .uebersicht-outer a:active	{ font-size: 14px; outline: none; color: #9e0b0f; text-decoration: none;}
+	.uebersicht-outer a:hover { font-size: 14px; color: #c9c916; text-decoration: none;}
+    
+    .link-pfeil-rot {height: 24px; width: 24px; margin: 10px 0 10px 0; }
+    .link-pfeil-gruen {height: 24px; width: 24px; margin: 0 0 0 10px; }
+    .search-pfeil-gruen {height: 24px; width: 24px; margin: 0 0 0 10px; }
+    
+    .rote-flaeche { background-color: #9e0b0f; padding: 10px; color: #fff}
+    .rote-flaeche h1 { color: #fff}
+    .rote-flaeche h2 { color: #fff}
+    .rote-flaeche h3 { color: #fff}
+    .rote-flaeche h4 { color: #fff}
+    .rote-flaeche a, .rote-flaeche a:visited, .rote-flaeche a:active	{ outline: none; color: #fff; text-decoration: underline}
+	.rote-flaeche a:hover { color: #fff; text-decoration: underline} 
+    
+    .liste { padding-left: 24px; background: url(../../templates/ferdinandeum/img/arrow_rg.html); background-repeat: no-repeat; background-position: 9px 5px;}
+    .kleine-schrift { font-size:11px; }
+
+    .top-bar-section ul li > a { text-transform: uppercase; }
+
+    
