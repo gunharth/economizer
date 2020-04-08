@@ -5,7 +5,7 @@ wget \
      --html-extension \
      --convert-links \
      --restrict-file-names=windows \
-     --domains economizer-statamic.test \
+     --domains localhost \
      --no-check-certificate \
      --no-parent \
-         https://economizer-statamic.test/
+         http://localhost:8000/

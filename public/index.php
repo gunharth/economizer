@@ -3,6 +3,8 @@ $lang = 'de';
 $title = "Home";
 $include_path = "";
 $main_image = "economizer-home.jpg";
+$main_nav = "";
+$nav = "";
 ?>
 <?php include($include_path . 'templates/_head.php'); ?>
 <body id="index">
