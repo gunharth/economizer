@@ -7,5 +7,7 @@ wget \
      --restrict-file-names=windows \
      --domains localhost \
      --no-check-certificate \
+     --directory-prefix=static \
+     --no-directories \
      --no-parent \
          http://localhost:8000/

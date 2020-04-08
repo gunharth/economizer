@@ -11989,7 +11989,7 @@ nav::after {
 
 #schleife {
   height: 100%;
-  background: url(../images/schleife.png);
+  background: url(schleife.png);
   background-repeat: repeat-y;
   background-position: top center;
   position: absolute;
