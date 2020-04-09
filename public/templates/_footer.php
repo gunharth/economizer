@@ -1,4 +1,4 @@
-<footer>
+<footer class="d-flex align-items-center">
     <div class="container-fluid footer-nav">
         <div class="row">
             <div class="col-sm-6 col-md-4 d-flex flex-wrap align-items-center">

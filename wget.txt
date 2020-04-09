@@ -9,16 +9,3 @@ wget \
      --no-check-certificate \
      --no-parent \
          https://economizer.test/
-
-
-wget \
-     --recursive \
-     --no-clobber \
-     --page-requisites \
-     --html-extension \
-     --convert-links \
-     --restrict-file-names=windows \
-     --domains localhost \
-     --no-check-certificate \
-     --no-parent \
-         http://localhost:8000/
