@@ -26,7 +26,7 @@ mix
   .sourceMaps(true, "source-map");
 
 mix.browserSync({
-  proxy: "localhost:3000",
+  proxy: "economizer.test",
   port: 3001,
   ui: {
     port: 3002
