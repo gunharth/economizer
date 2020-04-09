@@ -5,12 +5,10 @@ wget \
      --html-extension \
      --convert-links \
      --restrict-file-names=windows \
-     --domains localhost \
+     --domains economizer.test \
      --no-check-certificate \
-     --directory-prefix=static \
-     --no-directories \
      --no-parent \
-         http://localhost:8000/
+         https://economizer.test/
 
 
 wget \
