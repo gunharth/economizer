@@ -1,6 +1,7 @@
 <?php // page settings
 $lang = 'de';
 $title = "Kennzahlen";
+$description = "";
 $include_path = "../../";
 $main_image = "economizer-header-2-4.jpg";
 $main_nav = "wir-machen";

@@ -1,6 +1,7 @@
 <?php // page settings
 $lang = 'de';
 $title = "Home";
+$description = "";
 $include_path = "";
 $main_image = "economizer-home.jpg";
 $main_nav = "";

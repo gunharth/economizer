@@ -1,6 +1,7 @@
 <?php // page settings
 $lang = 'de';
 $title = "Ihre Vorteile";
+$description = "";
 $include_path = "../../";
 $main_image = "economizer-header-3-3.jpg";
 $main_nav = "wir-bieten";

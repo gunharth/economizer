@@ -1,6 +1,7 @@
 <?php // page settings
 $lang = 'de';
 $title = "Referenzen";
+$description = "";
 $include_path = "../../";
 $main_image = "economizer-header-4-2.jpg";
 $main_nav = "finden-sie-uns";

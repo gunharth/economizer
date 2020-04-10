@@ -1,6 +1,7 @@
 <?php // page settings
 $lang = 'de';
 $title = "Datenschutz";
+$description = "";
 $include_path = "../";
 $main_image = "economizer-header-3-1.jpg";
 $main_nav = "";

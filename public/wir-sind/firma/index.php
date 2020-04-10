@@ -1,6 +1,7 @@
 <?php // page settings
 $lang = 'de';
 $title = "Firma";
+$description = "";
 $include_path = "../../";
 $main_image = "economizer-header-1-3.jpg";
 $main_nav = "firma";

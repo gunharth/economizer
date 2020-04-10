@@ -9,7 +9,7 @@ $basepath = '/';
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?php echo $title; ?></title>
-    <meta name="description" content="">
+    <meta name="description" content="<?php echo $description;?>">
     <meta name="theme-color" content="00908F">
     <link rel="stylesheet" href="//use.typekit.net/nvh1bxa.css">
     <link href="//fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&display=swap" rel="stylesheet">

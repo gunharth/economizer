@@ -1,6 +1,7 @@
 <?php // page settings
 $lang = 'de';
 $title = "Machine";
+$description = "";
 $include_path = "../../";
 $main_image = "economizer-header-1-2.jpg";
 $main_nav = "maschine";

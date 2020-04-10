@@ -1,6 +1,7 @@
 <?php // page settings
 $lang = 'de';
 $title = "Mission";
+$description = "";
 $include_path = "../../";
 $main_image = "economizer-header-1-1.jpg";
 $main_nav = "wir-sind";

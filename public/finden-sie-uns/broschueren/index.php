@@ -1,6 +1,7 @@
 <?php // page settings
 $lang = 'de';
 $title = "Broschüren";
+$description = "";
 $include_path = "../../";
 $main_image = "economizer-header-4-3.jpg";
 $main_nav = "finden-sie-uns";

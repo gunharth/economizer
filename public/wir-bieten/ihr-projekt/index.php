@@ -1,6 +1,7 @@
 <?php // page settings
 $lang = 'de';
 $title = "Ihr Projekt";
+$description = "";
 $include_path = "../../";
 $main_image = "economizer-header-3-1.jpg";
 $main_nav = "wir-bieten";
