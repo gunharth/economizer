@@ -17961,8 +17961,8 @@ $(document).ready(function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/Guni/Code/statamic/economizer/src/js/site.js */"./src/js/site.js");
-module.exports = __webpack_require__(/*! /Users/Guni/Code/statamic/economizer/src/scss/site.scss */"./src/scss/site.scss");
+__webpack_require__(/*! /Users/Guni/Code/projects/economizer/src/js/site.js */"./src/js/site.js");
+module.exports = __webpack_require__(/*! /Users/Guni/Code/projects/economizer/src/scss/site.scss */"./src/scss/site.scss");
 
 
 /***/ })

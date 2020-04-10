@@ -609,7 +609,7 @@ pre code {
 
 @media (min-width: 1600px) {
   .container {
-    max-width: 1500px;
+    max-width: 1540px;
   }
 }
 
@@ -667,7 +667,7 @@ pre code {
   .container-md,
   .container-sm,
   .container {
-    max-width: 1500px;
+    max-width: 1540px;
   }
 }
 
@@ -12334,6 +12334,10 @@ body#index {
     height: 100%;
   }
 
+  .navbar-brand {
+    bottom: -97%;
+  }
+
   .header-image {
     height: 35vw;
   }
@@ -12348,7 +12352,7 @@ body#index {
     width: 21rem;
     left: 0;
     padding-left: 1vw;
-    bottom: -112%;
+    bottom: -104%;
     padding-bottom: 5px;
   }
 
@@ -12418,6 +12422,16 @@ body#index {
 }
 
 @media (min-width: 1600px) {
+  main img {
+    width: 48%;
+  }
+}
+
+@media (min-width: 1600px) {
+  .header-image {
+    height: 30vw;
+  }
+
   main img {
     width: 48%;
   }
