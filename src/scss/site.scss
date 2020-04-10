@@ -32,7 +32,7 @@ $container-max-widths: (
   md: 720px,
   lg: 960px,
   xl: 1140px,
-  xxl: 1500px
+  xxl: 1540px
 );
 
 // Bootstrap and its default variables
@@ -499,6 +499,9 @@ footer {
   nav::after {
     height: 100%;
   }
+  .navbar-brand {
+    bottom: -97%;
+  }
 
   .header-image {
     height: 35vw;
@@ -519,7 +522,7 @@ footer {
     width: 21rem;
     left: 0;
     padding-left: 1vw;
-    bottom: -112%;
+    bottom: -104%;
     padding-bottom: 5px;
   }
 
@@ -604,6 +607,17 @@ footer {
     width: 48%;
   }
 }
+
+
+@media (min-width: 1600px) {
+  .header-image {
+    height: 30vw;
+  }
+  main img {
+    width: 48%;
+  }
+}
+
 
 @media (min-width: 1940px) {
 
