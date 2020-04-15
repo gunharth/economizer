@@ -3,7 +3,7 @@ $lang = 'de';
 $title = "Glossar";
 $description = "";
 $include_path = "../";
-$main_image = "economizer-header-3-1.jpg";
+$main_image = "economizer-header-5.jpg";
 $main_nav = "";
 $nav = "";
 ?>

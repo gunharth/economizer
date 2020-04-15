@@ -32,7 +32,7 @@ $nav = "technik";
 
                         <div class="row">
                             <div class="col-xl-7 col-xxl-6">
-                                <p>##So funktioniert’s</p>
+                                <h2>So funktioniert’s</h2>
                                 <p>Zuerst werden grob vorzerkleinerte Reststoffe mit Brauchwasser vermischt (1), und durch rezirkulierten Prozessdampf vorerhitzt (2).</p>
                                 <p>Dann wird das Substrat in Chargen in den Koch-Reaktor beschickt (3), und dort mehrmals auf ein optimales Druck- und Temperatur-Niveau erhitzt (4).</p>
                                 <p>Anschließend wird es portionsweise mit Druck aus dem aus dem Kocher abgelassen (5). Dabei kommt es zu einem abrupten Druckabfall, bei dem ein Teil des im Substrat enthaltenen Wassers spontan verdampft. Und das erzeugt die „Steam Explosion“: Die rasch expandierenden Dampfblasen zerreißen das weichgekochte Substrat in feinste Fasern.</p>

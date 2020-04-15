@@ -3,7 +3,7 @@ $lang = 'de';
 $title = "Home";
 $description = "";
 $include_path = "";
-$main_image = "economizer-home.jpg";
+$main_image = "economizer-index.jpg";
 $main_nav = "";
 $nav = "";
 ?>
