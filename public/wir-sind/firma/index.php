@@ -19,7 +19,7 @@ $nav = "wir-sind";
 
             <main class="container-lg">
                 <div class="row">
-                    <div class="col-md-4 col-xxl-3">
+                    <div class="col-md-4 col-xl-3 col-xxl-3">
                         <h1><span class="orange forcelinebreak">Die</span> Firma</h1>
                         <p class="h1-subtext font-weight-bold">
                             Wir haben alle <br>Steam Explosion <br>im Blut.
@@ -28,10 +28,10 @@ $nav = "wir-sind";
                         <hr class="d-block d-md-none" />
                     </div>
 
-                    <div class="col-md-8 col-xxl-9">
+                    <div class="col-md-8 col-xl-9 col-xxl-9">
 
                         <div class="row">
-                            <div class="col-xl-8 col-xxl-6">
+                            <div class="col-xl-7 col-xxl-6">
                                 <h2>Das sind wir</h2>
                                 <p>Als weltweit einziges Unternehmen bieten wir mit dem ECONOMIZER SE eine technisch und wirtschaftlich bewährte Steam Explosion-Technologie für Biogasanlagen an.</p>
                                 <p>Hinter diesem Erfolg steht unser erfahrenes Team aus Ingenieuren und Anlagenbauern.<br />
@@ -44,7 +44,7 @@ $nav = "wir-sind";
                                 <p>Im Bild rechts: Das gesamte Team</p>
 
                             </div>
-                            <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
+                            <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
                                 <img src="/images/economizer-1-3-Raggiodorato.jpg" alt="" class="full">
 
