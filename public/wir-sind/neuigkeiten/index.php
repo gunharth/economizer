@@ -1,9 +1,9 @@
 <?php // page settings
 $lang = 'de';
-$title = "Mission";
+$title = "Neuigkeiten";
 $description = "";
 $include_path = "../../";
-$main_image = "economizer-header-1-1.jpg";
+$main_image = "economizer-header-1-4.jpg";
 $main_nav = "wir-sind";
 $nav = "mission";
 ?>
@@ -34,8 +34,8 @@ $nav = "mission";
 
                         <div class="row">
                             <div class="col-xl-7 col-xxl-6">
-                                <h2>News Item 1</h2>
-                                <p>Unsere ECONOMIZER SE-Technologie verwandelt Stroh, Mist, Ernte- und Grünabfälle unter Einsatz von Wärme und Druck in hochwertige Substrate für Biogasanlagen.</p>
+                                <h2>Fasergewinnungsprojekt auf der Biogasanlage Hahnennest</h2>
+                                <p>Im Dezember 2019 wurden 2 Stück ECONOMIZER SE 2.5 auf der Biogasanlage Hahnennest in Deutschland installiert. Durch die ECONOMIZER-Behandlung wird aus Silphie-Silage hochwertiger Zellstoff für die Papierproduktion gewonnen, und im selben Zug ein äußerst hochwertiges Biogassubstrat erzeugt.</p>
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
@@ -52,12 +52,12 @@ $nav = "mission";
 
                         <div class="row">
                             <div class="col-xl-7 col-xxl-6">
-                                <h2>News Item 2</h2>
-                                <p>Unsere ECONOMIZER SE-Technologie verwandelt Stroh, Mist, Ernte- und Grünabfälle unter Einsatz von Wärme und Druck in hochwertige Substrate für Biogasanlagen.</p>
+                                <h2>ECONOMIZER GmbH auf der ECOMONDO 2019 in Rimini</h2>
+                                <p>Anfang November 2019 wurde auf dem Stand der HERA Group das aus dem EU-LIFE-Programm geförderte gemeinsame Projekt „LIFE STEAM“ vorgestellt: Auf einer 1 MW-Biogasanlage des Projektpartners AYRION bei Ravenna wird im Sommer 2020 eine Steam-Explosion-Prototypenanlage zur Aufbereitung von mehr als 10.000 Tonnen Grünschnitt errichtet und von den Partnern betrieben. Das Ziel des F+E-Projektes ist die Nachrüstung einer Vielzahl von Biogasanlagen, die von NaWaRos auf kommunale Reststoffe umgestellt werden sollen.</p>
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
-                                <img src="/images/economizer-1-4-2.jpg" class="full" alt="">
+                                <img src="/images/economizer-1-4-1.jpg" class="full" alt="">
 
                             </div>
                         </div>

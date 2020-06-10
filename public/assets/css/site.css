@@ -11901,6 +11901,15 @@ body {
   font-weight: 300;
 }
 
+.table {
+  color: #a6adb4;
+}
+
+.table th,
+.table td {
+  padding: 0.75rem 0.75rem 0.75rem 0;
+}
+
 #wrapper {
   position: relative;
   min-height: 100vh;
@@ -12167,6 +12176,39 @@ nav::after {
 
 .header-image {
   height: 45vw;
+}
+
+.accordion {
+  border-bottom: 1px solid #f78806;
+}
+
+.accordion .card {
+  border: none;
+  background: none;
+}
+
+.accordion .card h3 {
+  background: url(https://cdn0.iconfinder.com/data/icons/slim-square-icons-basics/100/basics-16-128.png) no-repeat calc(100% - 10px) center;
+  background-size: 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-top: 1px solid #f78806;
+  padding: 0.75rem 0;
+}
+
+.accordion .card h3.collapsed {
+  background-image: url(https://cdn0.iconfinder.com/data/icons/slim-square-icons-basics/100/basics-15-128.png);
+}
+
+.accordion .card h3 span {
+  position: absolute;
+  right: 30%;
+  font-weight: 300;
+}
+
+.accordion .card-body {
+  padding-left: 0;
+  padding-right: 0;
 }
 
 footer svg {

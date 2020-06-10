@@ -58,6 +58,14 @@ body {
   font-weight: 300;
 }
 
+.table {
+    color: $grey;
+}
+
+.table th, .table td {
+  padding: 0.75rem 0.75rem 0.75rem 0;
+}
+
 #wrapper {
   position: relative;
   min-height: 100vh;
@@ -330,6 +338,36 @@ nav::after {
   height: 45vw;
 }
 
+.accordion {
+  // margin-top: 40px;
+  border-bottom: 1px solid $orange;
+  .card {
+    border: none;
+    // margin-bottom: 20px;
+    background: none;
+    h3 {
+      background: url(https://cdn0.iconfinder.com/data/icons/slim-square-icons-basics/100/basics-16-128.png) no-repeat calc(100% - 10px) center;
+    background-size: 20px;
+      cursor: pointer;
+      font-size: 16px;
+      border-top: 1px solid $orange;
+      padding: 0.75rem 0;
+      &.collapsed {
+            background-image: url(https://cdn0.iconfinder.com/data/icons/slim-square-icons-basics/100/basics-15-128.png);
+      }
+      & span {
+        position: absolute;
+        right: 30%;
+        font-weight: 300;
+      }
+    }
+    &-body {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+}
+
 footer svg {
   height: 18px;
   width: 30px;
@@ -410,6 +448,8 @@ body#index {
   position: fixed;
   bottom: 0;
 }
+
+
 
 // .jssocials-shares {
 //   margin: 0 15px;

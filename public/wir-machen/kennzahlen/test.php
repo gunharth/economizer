@@ -15,7 +15,8 @@ $nav = "kennzahlen";
             <?php include($include_path . 'templates/_nav.php'); ?>
             <div id="schleife"></div>
 
-            <div class="header-image" style="background:url(/images/<?php echo $main_image; ?>) no-repeat center center; background-size:cover;">
+            <div class="header-image"
+                style="background:url(/images/<?php echo $main_image; ?>) no-repeat center center; background-size:cover;">
             </div>
 
             <main class="container-lg">
@@ -79,7 +80,8 @@ $nav = "kennzahlen";
                                 <hr />
 
                             </div>
-                            <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between align-items-start">
+                            <div
+                                class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between align-items-start">
                                 <img src="/images/economizer-2-4-links.jpg" alt="">
                                 <img src="/images/economizer-2-4-rechts.jpg" alt="">
 
@@ -95,12 +97,14 @@ $nav = "kennzahlen";
                                 <div class="accordion" id="accordionExample">
                                     <div class="card">
                                         <div class="card-head" id="headingOne">
-                                            <h3 class="mb-0 collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                            <h3 class="mb-0 collapsed" data-toggle="collapse" data-target="#collapseOne"
+                                                aria-expanded="false" aria-controls="collapseOne">
                                                 Collapsible Group #1 <span>sometext</span>
                                             </h3>
                                         </div>
 
-                                        <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                        <div id="collapseOne" class="collapse" aria-labelledby="headingOne"
+                                            data-parent="#accordionExample">
                                             <div class="card-body">
                                                 <div class="table-responsive-sm">
                                                     <table class="table table-borderless">
@@ -145,11 +149,13 @@ $nav = "kennzahlen";
                                     </div>
                                     <div class="card">
                                         <div class="card-head" id="headingTwo">
-                                            <h3 class="mb-0 collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                            <h3 class="mb-0 collapsed" data-toggle="collapse" data-target="#collapseTwo"
+                                                aria-expanded="false" aria-controls="collapseTwo">
                                                 Collapsible Group Item #2 <span>sometext</span>
                                             </h3>
                                         </div>
-                                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                                            data-parent="#accordionExample">
                                             <div class="card-body">
                                                 Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus
                                                 terry richardson ad squid. 3 wolf moon officia aute, non cupidatat
@@ -165,11 +171,14 @@ $nav = "kennzahlen";
                                     </div>
                                     <div class="card">
                                         <div class="card-head" id="headingThree">
-                                            <h3 class="mb-0 collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                            <h3 class="mb-0 collapsed" data-toggle="collapse"
+                                                data-target="#collapseThree" aria-expanded="false"
+                                                aria-controls="collapseThree">
                                                 Collapsible Group Item #3 <span>sometext</span>
                                             </h3>
                                         </div>
-                                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                            data-parent="#accordionExample">
                                             <div class="card-body">
                                                 Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus
                                                 terry richardson ad squid. 3 wolf moon officia aute, non cupidatat
@@ -187,7 +196,10 @@ $nav = "kennzahlen";
 
 
                             </div>
-                            <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between align-items-start">
+                            <div
+                                class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between align-items-start">
+
+
                             </div>
                         </div>
 

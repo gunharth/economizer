@@ -49,7 +49,7 @@ $nav = "galerie";
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
                                 <h2>Unsere Fotos</h2>
-                                <p>(Inhalte fehlen noch, Fotos und Videos zum Großklicken)</p>
+                                <p>(Inhalte fehlen noch, Fotos und Videos zum Großklicken und Bildunterschriften bei den Fotos dann bitte)</p>
 
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between align-items-start">

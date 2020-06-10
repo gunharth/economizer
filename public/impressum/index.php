@@ -20,9 +20,9 @@ $nav = "";
             <main class="container-lg">
                 <div class="row">
                     <div class="col-md-4 col-xxl-3">
-                        <h1><span class="orange forcelinebreak">Unser</span> Impressum</h1>
+                        <h1><span class="orange forcelinebreak">Das</span> Impressum</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Es wird schwer sein, Biogasanlagen zukünftig ohne ECONOMIZER SE zu betreiben.
+                            Informationspflicht lt. &sect; 5 Abs. 1 E-Commerce-Gesetz und Offenlegungspflicht gemäß Mediengesetz &sect; 25.
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -32,50 +32,35 @@ $nav = "";
 
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
-                                <h2>Betreiber landwirtschaftlicher Biogasanlagen</h2>
-                                <p>Steigende Substratkosten und Auflagen zum Einsatz alternativer Substrate belasten die Wirtschaftlichkeit Ihrer Anlage.</p>
-                                <p>Mit der ECONOMIZER SE bereiten Sie Stroh, Mist und viele andere landwirtschaftliche Reststoffe so auf, dass Ihre Biogasanlage diese störungsfrei und mit sehr hohen Gaserträgen verwerten kann.</p>
-                                <h2>Betreiber von Abfall-Biogasanlagen</h2>
-                                <p>Anlagen zur anaeroben Biomüll- und Lebensmittelabfall-Behandlung sind heute Stand der Technik.</p>
-                                <p>Durch die einseitige Substratcharakteristik sind sie aber nicht einfach zu betreiben.</p>
-                                <p>ECONOMIZER SE bietet die Möglichkeit, zusätzlich nährstoffarme Substrate wie Reststroh einzusetzen, die das Fermenter-Gleichgewicht stabilisieren und die Biogaserträge deutlich steigern.</p>
+                                <h2>ECONOMIZER GmbH</h2>
+								<p>Richtiger Text von Hermanns Rechtsanwalt! Hier keine Bilder rechts, Text über gesamte Breite?!<br><br><br></p>
+								<p><strong>Firmenwortlaut</strong> ECONOMIZER GmbH</p>
+								<p><strong>UID-Nummer</strong> ATU65609059</p>
+								<p><strong>Firmenbuchnummer/-gericht</strong> FN 342410 w, Landesgericht Salzburg</p>
+								<p><strong>Firmensitz</strong> Gewerbestrasse 2, 5201 Seekirchen, Austria</p>
+								<p><strong>Kontaktdaten</strong> Tel.: +43 (0)6212.31602</p>
+								<p><strong>E-Mail</strong> office@economizer.systems</p>
+								<p><strong>Gewerbe</strong> Mechatroniker für Elektromaschinenbau und Automatisierung, verbunden mit Mechatroniker für Maschinen- und Fertigungstechnik (Handwerk)</p>
+                                <hr />
+                                <p><strong>Webdesign</strong> <a href="https://www.bit-pool.com/" target="_blank">www.bit-pool.com</a> / Silke Sporn</p>
+								<p><strong>Programmierung</strong> <a href="https://gunharth.io/" target="_blank">https://gunharth.io</a> / Gunharth Randolf</p>
+                                <hr />
+								<p><strong>Bildnachweise</strong><br>
+								Wir sind - Die Mission: (Schubkarre) © Suju / pixabay.com<br>
+								Wir sind - Die Firma: (Portrait- und Gruppenfoto) © Raggio Dorato Photography<br>
+								Wir sind - Die Neuigkeiten: https://de.wikipedia.org/wiki/Datei:Cup_plant.jpg<br>
+								Wir bieten - Unsere Kunden: (Kompost) © Ben_Kerckx / pixabay.com, (Harvested oil palm fruits with workers in background) © t4nkyong / Adobe Stock Bilder, (LKW lädt Container mit Grünschnitt auf dem Wertstoffhof auf) © Kzenon / Adobe Stock Bilder<br>
+								Wir bieten - Ihr Projekt: (Hände) © Scott Graham / unsplash.com<br>
+								Finden Sie uns - Der Kontakt: (Hände) Nic Macmillan / unsplash.com, (Hände am Laptop) © Scott Graham / unsplash.com<br>
+								Wir bieten - Die Broschüren (Deckblatt Broschüren) / Glossar / Datenschutz / Impressum: © Matthis Dierkes / photocase.de<br>
+								Alle anderen: © ECONOMIZER GmbH</p>
+								<p><strong>Videonachweise</strong> © ECONOMIZER GmbH</p>
 
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
                                 <img src="/images/economizer-3-1-links-1.jpg" alt="">
                                 <img src="/images/economizer-3-1-rechts-1.jpg" alt="">
-
-                            </div>
-                        </div>
-
-                        <div class="row">
-                            <div class="col-xl-8 col-xxl-6">
-                                <h2>Biomasse-Entsorger</h2>
-                                <p>Sortierter Grünschnitt und Landschaftspflegematerial müssen nicht komplett kompostiert werden.</p>
-                                <p>Sinnvoller ist die Umwandlung in Biogas. Nach der Vorbehandlung mit der ECONOMIZER SE-Technologie wird Abfall-Biomasse als hochwertiges Alternativ-Substrat zur nachhaltigen Energieerzeugung eingesetzt.</p>
-                                <h2>Agrar-Industrie</h2>
-                                <p>Weltweit werden riesige Mengen an Reststoffen in der Industrie nicht oder ineffizient genutzt. Bagasse und Palmölabfälle sind bekannte Beispiele.</p>
-                                <p>Vergären Sie diese Reststoffe nach der ECONOMIZER SE-Behandlung, und erzeugen Sie nachhaltig erneuerbare Energie – zur Selbstversorgung oder Netzeinspeisung.</p>
-
-                            </div>
-                            <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between align-items-start">
-
-                                <img src="/images/1AdobeStock_233367765_Preview.jpg" alt="">
-                                <img src="/images/2AdobeStock_160234675_Preview.jpg" alt="">
-
-                            </div>
-                        </div>
-
-                        <div class="row">
-                            <div class="col-xl-8 col-xxl-6">
-                                <hr />
-                                <h2>Biomasse-Entsorger</h2>
-                                <p>Die Mindestanlagengröße für den Einsatz der ECONOMIZER SE-Technologie beträgt typisch 1 MW (Verstromung) bzw. 250 Nm3/h Biomethan (Einspeiseanlage).</p>
-                                <p>Bei Biogasanlagen über 1,5 MW können mehrere ECONOMIZER SE installiert werden.</p>
-
-                            </div>
-                            <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between">
 
                             </div>
                         </div>
