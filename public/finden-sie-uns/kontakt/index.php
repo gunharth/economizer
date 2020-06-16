@@ -33,11 +33,11 @@ $nav = "kontakt";
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
                                 <h2>ECONOMIZER GmbH</h2>
-                                <p><img src="../../svg-icons/telefon-icon.svg"  height="31 px" width="31" alt=""/> Telefon +43 6212 31602</p>
+                                <p><img src="../../svg-icons/telefon-icon.svg" alt="" class="icon-inline" style="height: 31px;"> Telefon +43 6212 31602</p>
                                 <hr />
-                                <p><img src="../../svg-icons/adresse-icon.svg"  height="31 px" width="31" alt=""/> Gewerbestraße 2 / 5201 Seekirchen / Austria</p>
+                                <p><img src="../../svg-icons/adresse-icon.svg" alt="" class="icon-inline" style="height: 31px;"> Gewerbestraße 2 / 5201 Seekirchen / Austria</p>
                                 <p>(Und dann ein Formular)<br />
-									Ich habe jetzt die Icons eingebaut, versucht zumindest. Wieso sind die nicht linksbündig bitte?
+                                    Ich habe jetzt die Icons eingebaut, versucht zumindest. Wieso sind die nicht linksbündig bitte?
                                     Die Icons liegen nun in einem Extra-Ordner namens svg-icons auf dem Server.</p>
 
                             </div>

@@ -11955,6 +11955,14 @@ main img.full {
   width: 100%;
 }
 
+main img.icon-inline {
+  vertical-align: middle;
+  border-radius: 0;
+  margin-bottom: 0;
+  padding-right: 10px;
+  width: auto;
+}
+
 main a {
   border-bottom: 1px #a6adb4 dashed;
 }
