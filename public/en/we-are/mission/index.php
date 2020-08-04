@@ -54,7 +54,7 @@ $nav = "mission";
 
 
             <?php
-            include($include_path . 'templates/_footer.php');
+            include($include_path . 'templates/_footer-en.php');
             include($include_path . 'templates/_scripts.php');
             ?>
         </div>

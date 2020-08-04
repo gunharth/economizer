@@ -12,7 +12,7 @@ $nav = "";
 <body>
     <div id="wrapper">
         <div id="wrapper-content">
-            <?php include($include_path . 'templates/_nav.php'); ?>
+            <?php include($include_path . 'templates/_nav-en.php'); ?>
             <div id="schleife"></div>
 
             <div class="header-image" style="background:url(/images/<?php echo $main_image; ?>) no-repeat center center; background-size:cover;"></div>
@@ -31,7 +31,7 @@ $nav = "";
                     <div class="col-md-8 col-xxl-9">
 
                         <div class="row">
-                            <div class="col-xl-8 col-xxl-6">
+                            <div class="col-xl-12">
 
                                 <?php
                                 // include('de.php');
@@ -52,12 +52,6 @@ $nav = "";
                                 </p>
 
                             </div>
-                            <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
-
-                                <!-- <img src="/images/economizer-3-1-links-1.jpg" alt="">
-                                <img src="/images/economizer-3-1-rechts-1.jpg" alt=""> -->
-
-                            </div>
                         </div>
 
                     </div>
@@ -65,7 +59,7 @@ $nav = "";
             </main>
 
             <?php
-            include($include_path . 'templates/_footer.php');
+            include($include_path . 'templates/_footer-en.php');
             include($include_path . 'templates/_scripts.php');
             ?>
         </div>
