@@ -31,7 +31,7 @@ $nav = "galerie";
                     <div class="col-md-8 col-xxl-9">
 
                         <div class="row">
-                            <div class="col-xl-8 col-xxl-6">
+                            <div class="col-md-12">
                                 <h2>Unsere Videos</h2>
                                 <p>(Inhalte fehlen noch)<br />
                                     Hier kommen weder Text in der Mitte noch Dekobilder rechts, sondern bitte wie im Originallayout.</p>
@@ -41,19 +41,62 @@ $nav = "galerie";
                                 <p>Danke!</p>
 
                             </div>
-                            <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
+                            <div class="row justify-content-center">
+                                <div class="col-md-12">
+                                    <div class="row">
+
+                                        <!-- videos  -->
+                                        <a href="http://www.youtube.com/watch?v=k6mFF3VmVAs" data-toggle="lightbox" data-gallery="youtubevideos" class="col-sm-4">
+                                            <img src="http://i1.ytimg.com/vi/yP11r5n5RNg/mqdefault.jpg" class="img-fluid">
+                                        </a>
+                                        <a href="http://youtu.be/iQ4D273C7Ac" data-toggle="lightbox" data-gallery="youtubevideos" class="col-sm-4">
+                                            <img src="http://i1.ytimg.com/vi/iQ4D273C7Ac/mqdefault.jpg" class="img-fluid">
+                                        </a>
+                                        <a href="//www.youtube.com/embed/b0jqPvpn3sY" data-toggle="lightbox" data-gallery="youtubevideos" class="col-sm-4">
+                                            <img src="http://i1.ytimg.com/vi/b0jqPvpn3sY/mqdefault.jpg" class="img-fluid">
+                                        </a>
+
+                                    </div>
+                                </div>
                             </div>
                         </div>
 
+
+
                         <div class="row">
-                            <div class="col-xl-8 col-xxl-6">
+                            <div class="col-md-12">
                                 <h2>Unsere Fotos</h2>
                                 <p>(Inhalte fehlen noch, Fotos und Videos zum Großklicken und Bildunterschriften bei den Fotos dann bitte)</p>
-
                             </div>
-                            <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between align-items-start">
+                            <div class="row justify-content-center">
+                                <div class="col-md-12">
+                                    <div class="row">
 
+                                        <!-- bilder  -->
+                                        <a href="/images/economizer-header-1-1.jpg" data-footer="Beschreibung optional" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+                                            <img src="https://unsplash.it/600.jpg?image=251" class="img-fluid">
+                                        </a>
+                                        <a href="https://unsplash.it/1200/768.jpg?image=252" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+                                            <img src="https://unsplash.it/600.jpg?image=252" class="img-fluid">
+                                        </a>
+                                        <a href="https://unsplash.it/1200/768.jpg?image=253" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+                                            <img src="https://unsplash.it/600.jpg?image=253" class="img-fluid">
+                                        </a>
+
+                                    </div>
+                                    <div class="row">
+                                        <a href="https://unsplash.it/1200/768.jpg?image=254" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+                                            <img src="https://unsplash.it/600.jpg?image=254" class="img-fluid">
+                                        </a>
+                                        <a href="https://unsplash.it/1200/768.jpg?image=255" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+                                            <img src="https://unsplash.it/600.jpg?image=255" class="img-fluid">
+                                        </a>
+                                        <a href="https://unsplash.it/1200/768.jpg?image=256" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+                                            <img src="https://unsplash.it/600.jpg?image=256" class="img-fluid">
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
 

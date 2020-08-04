@@ -17940,6 +17940,27 @@ $(document).ready(function () {
     shares: ["twitter", "facebook", "linkedin", "email"]
   });
 });
+$(document).on("click", '[data-toggle="lightbox"]', function (event) {
+  event.preventDefault();
+  $(this).ekkoLightbox({// alwaysShowClose: true
+  });
+});
+$(function () {
+  $("a[data-toggle=popover]").on("click", function (e) {
+    e.preventDefault();
+  }).popover(); // $('a[data-toggle="popover"]').popover().cli;
+  // $("a[rel=popover]").popover().click (e)
+  // e.preventDefault()
+
+  $("body").on("click", function (e) {
+    $("[data-toggle=popover]").each(function () {
+      // hide any open popovers when the anywhere else in the body is clicked
+      if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $(".popover").has(e.target).length === 0) {
+        $(this).popover("hide");
+      }
+    });
+  });
+});
 
 /***/ }),
 

@@ -120,11 +120,11 @@ main img.icon-inline {
   width: auto;
 }
 
-main a {
+main p a {
   border-bottom: 1px $grey dashed;
 }
 
-main a:hover {
+main p a:hover {
   color: #f78806;
   border-bottom: 1px $orange dashed;
   text-decoration: none;
@@ -427,6 +427,10 @@ footer p {
   margin-bottom: 0;
 }
 
+footer a:hover {
+  text-decoration: none;
+}
+
 // home
 body#index {
   height: 100%;
@@ -675,4 +679,35 @@ footer {
     width: 30rem;
     padding-bottom: 0px;
   }
+}
+
+.img-fluid {
+    width: 100%;
+}
+
+.form-control {
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    // font-weight: 300;
+    // line-height: 1.5;
+    color: #A6ADB5;
+    // background-color: white;
+    // background-clip: padding-box;
+    border: 1px solid #f78806;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    // transition: none;
+    outline: none;
+}
+
+.form-control:focus {
+    color: #495057;
+    background-color: white;
+    border-color: #f78806;
+    outline: 0;
+    box-shadow: none;
+}
+
+.modal-footer {
+    justify-content: flex-start;
 }

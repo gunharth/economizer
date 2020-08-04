@@ -31,23 +31,33 @@ $nav = "";
                     <div class="col-md-8 col-xxl-9">
 
                         <div class="row">
-                            <div class="col-xl-8 col-xxl-6">
-                                <h2>A</h2>
-                                <p><strong>Wort mit A</strong></p>
-                                <p>Text von Hermann, in der Website verlinken. Hier keine Bilder rechts, Text über gesamte Breite?!</p>
-								<hr />
-                                <h2>B</h2>
-                                <p><strong>Wort mit B</strong></p>
-                                <p>Text von Hermann, in der Website verlinken. Hier keine Bilder rechts, Text über gesamte Breite?!</p>
-								<hr />
+                            <div class="col-xl-12">
+
+                                <?php
+                                // include('de.php');
+                                foreach ($g as $gkey => $items) {
+                                    echo '<h2>' . $gkey . '</h2>';
+                                    foreach ($items as $ikey => $item) {
+                                        echo '<p><strong>';
+                                        echo $ikey;
+                                        echo '</strong></br>';
+                                        echo $item;
+                                        echo '</p>';
+                                    }
+                                    echo '<hr />';
+                                }
+                                ?>
+
+                                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Id odit quasi excepturi, enim, veritatis esse quod <a href="#" data-container="body" data-toggle="popover" data-placement="top" data-content="<?php echo $g["A"]["AFermenter"]; ?>">Glositem</a> alias earum reprehenderit reiciendis laborum provident doloremque itaque magnam explicabo suscipit quos dignissimos quam.
+                                </p>
 
                             </div>
-                            <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
+                            <!-- <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
                                 <img src="/images/economizer-3-1-links-1.jpg" alt="">
                                 <img src="/images/economizer-3-1-rechts-1.jpg" alt="">
 
-                            </div>
+                            </div> -->
                         </div>
 
                     </div>

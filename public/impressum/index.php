@@ -31,7 +31,7 @@ $nav = "";
                     <div class="col-md-8 col-xxl-9">
 
                         <div class="row">
-                            <div class="col-xl-8 col-xxl-6">
+                            <div class="col-xl-12">
                                 <h2>ECONOMIZER GmbH</h2>
 								<p>Richtiger Text von Hermanns Rechtsanwalt! Hier keine Bilder rechts, Text über gesamte Breite?!<br><br><br></p>
 								<p><strong>Firmenwortlaut</strong> ECONOMIZER GmbH</p>
@@ -57,12 +57,12 @@ $nav = "";
 								<p><strong>Videonachweise</strong> © ECONOMIZER GmbH</p>
 
                             </div>
-                            <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
+                            <!-- <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
                                 <img src="/images/economizer-3-1-links-1.jpg" alt="">
                                 <img src="/images/economizer-3-1-rechts-1.jpg" alt="">
 
-                            </div>
+                            </div> -->
                         </div>
 
                     </div>

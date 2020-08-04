@@ -37,6 +37,38 @@ $nav = "brochueren";
                                 <p>Registrieren Sie sich dazu bitte hier. Die Downloadlinks werden im Anschluss sofort freigeschaltet.</p>
                                 <p><strong>(Dann Formular und Downloadbereich wie Originallayout bitte.)</strong></p>
 
+                                <form role="form" id="downloadForm" name="downloadForm" method="post" enctype="multipart/form-data">
+                                    <p><span class="text-highlight">*</span> Erforderliche Felder</p>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control input-lg" name="Name" id="Name" placeholder="Name*" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control input-lg" name="Firma" id="Firma" placeholder="Firma">
+                                    </div>
+                                    <div class="form-group">
+                                        <textarea name="Adresse" id="Adresse" class="form-control input-lg" rows="2" placeholder="Adresse"></textarea>
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control input-lg" name="Telefon" id="Telefon" placeholder="Telefon">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="email" class="form-control input-lg" id="Email" name="Email" placeholder="Email*" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <select class="form-control input-lg" id="Auswahl" name="Auswahl">
+                                            <option value="">Bitte auswählen</option>
+                                            <option value="Betreiber">Betreiber</option>
+                                            <option value="Anlagenbauer">Anlagenbauer</option>
+                                            <option value="Planung">Planung</option>
+                                            <option value="Behörde">Behörde</option>
+                                            <option value="Forschung">Forschung</option>
+                                            <option value="andere">andere</option>
+                                        </select>
+                                    </div>
+
+                                    <input type="submit" name="submit" id="submit" value="Absenden" class="btn btn-lg btn-warning"> <i id="processing" style="display: none" class="fa fa-lg fa-cog fa-spin"></i>
+                                </form>
+
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 

@@ -41,7 +41,9 @@ $nav = "technik";
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
-                                <img src="/images/economizer-2-3.jpg" alt="" class="full">
+                                <a href="/images/economizer-2-3.jpg" data-footer="Beschreibung optional <span class='orange'>(2)</span> Beschreibung optional <span class='orange'>(2)</span> Beschreibung optional <span class='orange'>(2)</span> Beschreibung optional <span class='orange'>(2)</span> Beschreibung optional <span class='orange'>(2)</span>" data-toggle="lightbox">
+                                    <img src="/images/economizer-2-3.jpg" alt="" class="full">
+                                </a>
 
                             </div>
                         </div>
