@@ -39,9 +39,6 @@ $nav = "mission";
                                 <p>Unsere Kunden machen ihre Biogasanlagen mit der ECONOMIZER SE-Technologie unabhängig, flexibel und zukunftssicher.</p>
                                 <p>Gemeinsam leisten wir einen bedeutenden Beitrag zum Klimaschutz, denn nachhaltig aus Stroh und Reststoffen gewonnenes Biogas ist ein wichtiger Baustein der Energiewende.</p>
 
-                                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Id odit quasi excepturi, enim, veritatis esse quod <a href="#" data-container="body" data-toggle="popover" data-placement="top" data-content="<?php echo $g["A"]["AFermenter"]; ?>">Glositem</a> alias earum reprehenderit reiciendis laborum provident doloremque itaque magnam explicabo suscipit quos dignissimos quam.
-                                </p>
-
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 

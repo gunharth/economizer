@@ -33,7 +33,7 @@ $nav = "aufgabe";
                         <div class="row">
                             <div class="col-xl-7 col-xxl-6">
                                 <h2>Der Lignozellulose-Komplex</h2>
-                                <p>Stroh, Mist, Grünschnitt und Ernteabfälle – die von uns eingesetzten Reststoff-Substrate – haben alle eines gemeinsam: den Lignozellulose-Komplex.</p>
+                                <p>Stroh, Mist, Grünschnitt und Ernteabfälle, die von uns eingesetzten Reststoff-Substrate, haben alle eines gemeinsam: den Lignozellulose-Komplex.</p>
                                 <p>Das bedeutet, diese Substrate bestehen zu großen Teilen aus einem verholzten Verbund von Zellulose- und Hemizellulose, ummantelt mit Lignin. Dieser Komplex ist zwar äußerst energiereich – aber für Biogasbakterien leider nahezu unverdaulich.</p>
                                 <p>Ohne die passende Vorbehandlung kommt die Biogasanlage nicht an die Energie ran, und die Substrate verlassen den Fermenter wieder, ohne dass daraus Biogas produziert wurde.</p>
                                 <p>Dazu kommen noch Betriebsprobleme durch Schwimm- und Sinkschichten aus unverdautem Material.</p>

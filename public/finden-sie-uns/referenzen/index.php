@@ -33,15 +33,14 @@ $nav = "referenzen";
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
                                 <h2>Unsere Auftraggeber</h2>
-                                <p>(Weitere Inhalte fehlen noch)<br />
-                                    Das soll dann auch wie der Akkordeoneffekt bei &quot;Die Kennzahlen&quot; -&gt; Fallstudien funktionieren. Bitte siehe Originallayout.</p>
+                                
 
 
                                 <div class="accordion" id="accordionExample">
                                     <div class="card">
                                         <div class="card-head" id="headingOne">
                                             <h3 class="mb-0 collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                                Collapsible Group #1 <span>sometext</span>
+                                                Società Agricola Leona S.S. <span>Italien</span>
                                             </h3>
                                         </div>
 
@@ -51,37 +50,23 @@ $nav = "referenzen";
                                                     <table class="table table-borderless">
                                                         <tbody>
                                                             <tr>
-                                                                <td><strong>Kapazität:</strong></td>
-                                                                <td colspan="2">6.000 Tonnen Trockensubstanz pro Jahr<br />
-                                                                    (das sind 7.000 t Stroh oder bis zu 21.000 t Mist oder…)</td>
+                                                                <td><strong>Kunde:</strong></td>
+                                                                <td colspan="2">Società Agricola Leona S.S.<br>44021 Codigoro, Italien</td>
                                                             </tr>
                                                             <tr>
-                                                                <td><strong>Energiebedarf:</strong></td>
-                                                                <td colspan="2">25 kW Strom (600 kWh/Tag)/ 275 kW Wärme (6.000
-                                                                    kWh/Tag)<br />
-                                                                    (Hochtemperatur-Wärme: AbgasWT oder Brenner)</td>
+                                                                <td><strong>Anlage:</strong></td>
+                                                                <td colspan="2">automatische Krananlage, Schredder, Steinabscheider<br>
+																ECONOMIZER SE 2.5</td>
                                                             </tr>
                                                             <tr>
-                                                                <td><strong>Produziertes Gärsubstrat:</strong></td>
-                                                                <td colspan="2">60 to/Tag (bei 30 %TS)</td>
+                                                                <td><strong>Substrat:</strong></td>
+                                                                <td colspan="2">Getreide-Stroh (ca. 7.000 to/Jahr)</td>
                                                             </tr>
                                                             <tr>
-                                                                <td><strong>Gärpotential:</strong></td>
-                                                                <td colspan="2">9.000 bis 11.000 m³ Biogas pro Tag</td>
+                                                                <td><strong>Anwendung:</strong></td>
+                                                                <td colspan="2">Substratversorgung für Biomethan-Anlage</td>
                                                             </tr>
-                                                            <tr>
-                                                                <td><strong>Typische Biogaserträge:</strong></td>
-                                                                <td>Stroh (A-Qualität)<br />
-                                                                    Altstroh<br />
-                                                                    Stallmist<br />
-                                                                    Bagasse<br />
-                                                                    Grünschnitt</td>
-                                                                <td>520 m³/tFM<br />
-                                                                    340 m³/tFM<br />
-                                                                    125 m³/tFM<br />
-                                                                    450 m³/tFM<br />
-                                                                    200 m³/tFM</td>
-                                                            </tr>
+                                                            
                                                         </tbody>
                                                     </table>
                                                 </div>
@@ -91,40 +76,71 @@ $nav = "referenzen";
                                     <div class="card">
                                         <div class="card-head" id="headingTwo">
                                             <h3 class="mb-0 collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                Collapsible Group Item #2 <span>sometext</span>
+                                                Teofipolskey Sugar Mill <span>Ukraine</span>
                                             </h3>
                                         </div>
                                         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
-                                            <div class="card-body">
-                                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus
-                                                terry richardson ad squid. 3 wolf moon officia aute, non cupidatat
-                                                skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
-                                                Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid
-                                                single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh
-                                                helvetica, craft beer labore wes anderson cred nesciunt sapiente ea
-                                                proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft
-                                                beer farm-to-table, raw denim aesthetic synth nesciunt you probably
-                                                haven't heard of them accusamus labore sustainable VHS.
+                                           <div class="card-body">
+                                                <div class="table-responsive-sm">
+                                                    <table class="table table-borderless">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td><strong>Kunde:</strong></td>
+                                                                <td colspan="2">Teofipolskey Sugar Mill<br>30600 Teofipol, Ukraine</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td><strong>Anlage:</strong></td>
+                                                                <td colspan="2">3 Linien: automatische Krananlage, Schredder, Steinabscheider<br>
+																6 Linien: ECONOMIZER SE 2.5</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td><strong>Substrat:</strong></td>
+                                                                <td colspan="2">Getreide-Stroh (ca. 40.000 to/Jahr)</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td><strong>Anwendung:</strong></td>
+                                                                <td colspan="2">Substratversorgung für Biogas-Anlage</td>
+                                                            </tr>
+                                                            
+                                                        </tbody>
+                                                    </table>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="card">
                                         <div class="card-head" id="headingThree">
                                             <h3 class="mb-0 collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                Collapsible Group Item #3 <span>sometext</span>
+                                                Outnature GmbH <span>Deutschland</span>
                                             </h3>
                                         </div>
                                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                                             <div class="card-body">
-                                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus
-                                                terry richardson ad squid. 3 wolf moon officia aute, non cupidatat
-                                                skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
-                                                Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid
-                                                single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh
-                                                helvetica, craft beer labore wes anderson cred nesciunt sapiente ea
-                                                proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft
-                                                beer farm-to-table, raw denim aesthetic synth nesciunt you probably
-                                                haven't heard of them accusamus labore sustainable VHS.
+                                                <div class="table-responsive-sm">
+                                                    <table class="table table-borderless">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td><strong>Kunde:</strong></td>
+                                                                <td colspan="2">Outnature GmbH<br>Energiepark Hahnennest</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td><strong>Anlage:</strong></td>
+                                                                <td colspan="2">2 Linien: ECONOMIZER SE 2.5<br>
+																1 Linie: AGROWFIBER 5.0</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td><strong>Substrat:</strong></td>
+                                                                <td colspan="2">Durchwachsene Silphie <em>&#040;silphium perfoliatum&#041;</em></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td><strong>Anwendung:</strong></td>
+                                                                <td colspan="2">Zellstoff-Erzeugung<br>
+		Substratversorgung für Biogas-Anlage</td>
+                                                            </tr>
+                                                            
+                                                        </tbody>
+                                                    </table>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>

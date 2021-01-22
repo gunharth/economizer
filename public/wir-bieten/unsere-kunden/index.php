@@ -61,8 +61,8 @@ $nav = "unsere-kunden";
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between align-items-start">
 
-                                <img src="/images/1AdobeStock_233367765_Preview.jpg" alt="">
-                                <img src="/images/2AdobeStock_160234675_Preview.jpg" alt="">
+                                <img src="/images/economizer-3-1-links-2.jpg" alt="">
+                                <img src="/images/economizer-3-1-rechts-2.jpg" alt="">
 
                             </div>
                         </div>
@@ -70,7 +70,6 @@ $nav = "unsere-kunden";
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
                                 <hr />
-                                <h2>Biomasse-Entsorger</h2>
                                 <p>Die Mindestanlagengröße für den Einsatz der ECONOMIZER SE-Technologie beträgt typisch 1 MW (Verstromung) bzw. 250 Nm3/h Biomethan (Einspeiseanlage).</p>
                                 <p>Bei Biogasanlagen über 1,5 MW können mehrere ECONOMIZER SE installiert werden.</p>
 

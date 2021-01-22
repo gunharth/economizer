@@ -37,10 +37,10 @@ $nav = "wir-sind";
                                 <p>Hinter diesem Erfolg steht unser erfahrenes Team aus Ingenieuren und Anlagenbauern. Wir sind die Top-Experten für Steam Explosion-Anwendungen im Bereich Biogas.</p>
                                 <p>Wir geben unser Bestes für unser gemeinsames Ziel: nachhaltig erzeugte, erneuerbare Energie aus organischen Reststoffen.</p>
                                 <p><strong>Im Bild oben von links nach rechts:</strong><br />
-                                    Hermann Dauser (MD/CTO)<br />
+                                    Hermann Dauser (CTO)<br />
 									Helge Leinich (MD/CEO)<br />
                                     Felix Nussbaumer (CFO)</p>
-                                <p>Im Gruppenbild – das gesamte Team</p>
+                                <p>Im Gruppenbild – das Team</p>
 
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">

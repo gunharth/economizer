@@ -34,8 +34,10 @@ $nav = "mission";
 
                         <div class="row">
                             <div class="col-xl-7 col-xxl-6">
-                                <h2>Fasergewinnungsprojekt auf der Biogasanlage Hahnennest</h2>
-                                <p>Im Dezember 2019 wurden 2 Stück ECONOMIZER SE 2.5 auf der Biogasanlage Hahnennest in Deutschland installiert. Durch die ECONOMIZER-Behandlung wird aus Silphie-Silage hochwertiger Zellstoff für die Papierproduktion gewonnen, und im selben Zug ein äußerst hochwertiges Biogassubstrat erzeugt.</p>
+                                <h2>Erste Economizer SE 2.5-Anlage in Italien</h2>
+                                <p><strong>Februar 2021</strong><br><br>
+									Der neue Biomethan-Tarif in Italien fordert 50 % Reststoff-Einsatz. Für viele unmöglich – nicht für die erfahrenen Biogas-Fachleute und Agrarunternehmer der Gestione Agricole Cavallari: Für die Erweiterung der bestehenden 1 MW-Anlage um eine zweite Linie zur Biomethan-Erzeugung entschied man sich für einen ECONOMIZER SE 2.5. Unsere erste Anlage in Italien ist nun in Betrieb, und es ist sicher nicht unsere letzte.
+								</p>
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
@@ -52,12 +54,58 @@ $nav = "mission";
 
                         <div class="row">
                             <div class="col-xl-7 col-xxl-6">
-                                <h2>ECONOMIZER GmbH auf der ECOMONDO 2019 in Rimini</h2>
-                                <p>Anfang November 2019 wurde auf dem Stand der HERA Group das aus dem EU-LIFE-Programm geförderte gemeinsame Projekt „LIFE STEAM“ vorgestellt: Auf einer 1 MW-Biogasanlage des Projektpartners AYRION bei Ravenna wird im Sommer 2020 eine Steam-Explosion-Prototypenanlage zur Aufbereitung von mehr als 10.000 Tonnen Grünschnitt errichtet und von den Partnern betrieben. Das Ziel des F+E-Projektes ist die Nachrüstung einer Vielzahl von Biogasanlagen, die von NaWaRos auf kommunale Reststoffe umgestellt werden sollen.</p>
+                                <h2>Neues aus dem Hahnennest: 2 Preise für Verpackungen aus Silphie-Fasern</h2>
+                                <p><strong>Jänner 2021</strong><br><br>
+									Ein großer Erfolg für unsere ECONOMIZER-Technologie und das AGROWFIBER-Upgrade: Die Outnature GmbH, Teil der Schwarz-Gruppe (Lidl, Kaufland), hat mit alternativen Lebensmittel-Verpackungen aus Silphiefasern zwei renommierte Preise abgeräumt:<br>
+Gewinner des Deutschen Verpackungspreises 2020 in der Kategorie „neues Material“ und Preisträger 2020 des Innovationspreises Bioökonomie des Landes Baden-Württemberg<br>
+Beides hochverdient - Gratulation!<br>
+									&#040;Siehe auch: <a href="https://www.biooekonomie-bw.de/fachbeitrag/aktuell/einem-kreislauf-oekopapier-energie-und-duenger-aus-silphie" target="_blank">Fachbeitrag der Bioökonomie BW</a>&#041;
+								</p>
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
-                                <img src="/images/economizer-1-4-1.jpg" class="full" alt="">
+                                <img src="/images/economizer-1-4-2.jpg" class="full" alt="">
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xl-7 col-xxl-6">
+                                <hr />
+                            </div>
+                            <div class="col-xl-5 col-xxl-6">&nbsp;</div>
+                        </div>
+						
+						<div class="row">
+                            <div class="col-xl-7 col-xxl-6">
+                                <h2>6 Economizer SE 2.5-Linien für Europas größte Biogasanlage</h2>
+                                <p><strong>Jänner 2021</strong><br><br>
+									Die ukrainische Zuckerfabrik in Teofipol hat mit 16 MW elektrischer Leistung eine der größten landwirtschaftlichen Biogasanlagen Europas. Für die nächste Ausbaustufe auf 20 MW hat sich der Eigentümer für Stroh als Hauptsubstrat entschieden. Um diesen Schritt möglich zu machen, haben wir 6 Einheiten ECONOMIZER SE 2.5 geliefert und installiert. Die Stroh-Gas-Fabrik ist in inzwischen in Betrieb und beweist, wie morgen Biogas gemacht wird.
+								</p>
+                            </div>
+                            <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
+
+                                <img src="/images/economizer-1-4-2.jpg" class="full" alt="">
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xl-7 col-xxl-6">
+                                <hr />
+                            </div>
+                            <div class="col-xl-5 col-xxl-6">&nbsp;</div>
+                        </div>
+						
+						<div class="row">
+                            <div class="col-xl-7 col-xxl-6">
+                                <h2>Zellstoff-Erzeugung aus Einjahres-Pflanzen / Energiepark Hahnennest</h2>
+                                <p><strong>Dezember 2020</strong><br><br>
+									Auf der 3MW-Biogasanlage im oberschwäbischen Hahnennest ist 2020 das wohl innovativste Biogas-Projekt der letzten Jahre realisiert worden: Aus Silage der „durchwachsenen Silphie“ wird mit unserer ECONOMIZER-Technologie und dem von uns entwickelten AGROWFIBER-Upgrade-Modul großtechnisch Zellstoff erzeugt: 50 % der Biomasse gehen nach der Aufbereitung als hochwertige Zellulose-Faser zur Papierfabrik Lenningen, 50 % werden als energiereiches Gärsubstrat bereit gestellt. Energie-autark, regional, ökologisch nachhaltig und Carbon-negativ: ein Projekt der Superlative, wegweisend für die Papierindustrie und die Biogasbranche.<br>
+									&#040;Siehe auch: Fachverband Biogas Deutschland, Biogas Journal 6_2020, Titelstory: Silphiefasern für Verpackungsmaterial&#041;
+								</p>
+                            </div>
+                            <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
+
+                                <img src="/images/economizer-1-4-2.jpg" class="full" alt="">
 
                             </div>
                         </div>
