@@ -32,29 +32,33 @@ $nav = "";
 
                         <div class="row">
                             <div class="col-xl-12">
-                                <h2>ECONOMIZER GmbH</h2>
-								<p>Richtiger Text von Hermanns Rechtsanwalt! Hier keine Bilder rechts, Text über gesamte Breite?!<br><br><br></p>
-								<p><strong>Firmenwortlaut</strong> ECONOMIZER GmbH</p>
-								<p><strong>UID-Nummer</strong> ATU65609059</p>
-								<p><strong>Firmenbuchnummer/-gericht</strong> FN 342410 w, Landesgericht Salzburg</p>
-								<p><strong>Firmensitz</strong> Gewerbestrasse 2, 5201 Seekirchen, Austria</p>
-								<p><strong>Kontaktdaten</strong> Tel.: +43 (0)6212.31602</p>
-								<p><strong>E-Mail</strong> office@economizer.systems</p>
-								<p><strong>Gewerbe</strong> Mechatroniker für Elektromaschinenbau und Automatisierung, verbunden mit Mechatroniker für Maschinen- und Fertigungstechnik (Handwerk)</p>
+                                <h2>AGRES SYSTEMS GmbH</h2>
+								<p>Für den Inhalt dieser Webseite verantwortlich ist:<br></p>
+								<p><strong>Firmenwortlaut</strong> AGRES SYSTEMS GmbH</p>
+								<p><strong>Geschäftsführer</strong> DI Helge Leinich</p>
+								<p><strong>UID-Nummer</strong> ATU75675903</p>
+								<p><strong>Firmenbuchnummer/-gericht</strong> FN 534497a, Landesgericht Graz</p>
+								<p><strong>Firmensitz</strong> Gewerbestr. 2, 5201 Seekirchen am Wallersee, Österreich</p>
+								<p><strong>Telefon</strong> +43 kommt noch ...</p>
+								<p><strong>eMail</strong> <a href="mailto: office@agres.systems">office@agres.systems</a></p>
+								<p><strong>Mitglied</strong> WKO</p>
+								<p><strong>Gewerbe</strong> ...</p>
+								<hr />
+								<p>Verbraucher haben die Möglichkeit, Beschwerden an die Online-Streitbeilegungsplattform der EU zu richten: <a href="http://ec.europa.eu/odr" target="_blank">http://ec.europa.eu/odr</a>. Sie können allfällige Beschwerden auch an die oben angegebene eMailadresse richten.</p>
+								<hr />
+								<p><strong>Marken- und Patentschutzrechte</strong><br>
+								Die Produktbezeichnungen ECONOMIZER, ECONOMAIZE und AGROWFIBER sind geschützte Marken. Jegliche kommerzielle Nutzung und/oder Verwendung dieser Produktbezeichnungen ist ohne ausdrückliche und schriftliche Zustimmung der AGRES SYSTEMS GmbH untersagt. Die ECONOMIZER-Technologie ist patentrechtlich geschützt. Die AGROWFIBER-Technologie ist zum Patent angemeldet.</p>
                                 <hr />
+								<p><strong>Fotos, Bilder und Videos</strong><br>
+								Jegliche Verbreitung, Reproduktion und/oder Verwendung der Fotos, Bilder und Videos, die auf dieser Website eingebunden sind, ist ohne ausdrückliche und schriftliche Zustimmung der AGRES SYSTEMS GmbH untersagt: © AGRES SYSTEMS GmbH, Martin Dauser<br><br>
+								Externe Bildnachweise:<br>
+								Wir sind - Die Firma: (Portrait- und Gruppenfoto) © Raggio Dorato Photography<br>
+								Wir bieten - Unsere Kunden: Harvested oil palm fruits with workers in background © t4nkyong / Adobe Stock Bilder, LKW lädt Container mit Grünschnitt auf dem Wertstoffhof auf © Kzenon / Adobe Stock Bilder<br>
+								Wir bieten - Die Broschüren (Deckblatt Broschüren) / Impressum / Datenschutz: © Matthis Dierkes / photocase.de<br>
+								Weitere: pixabay.com, unsplash.com</p>
+								<hr />
                                 <p><strong>Webdesign</strong> <a href="https://www.bit-pool.com/" target="_blank">www.bit-pool.com</a> / Silke Sporn</p>
 								<p><strong>Programmierung</strong> <a href="https://gunharth.io/" target="_blank">https://gunharth.io</a> / Gunharth Randolf</p>
-                                <hr />
-								<p><strong>Bildnachweise</strong><br>
-								Wir sind - Die Mission: (Schubkarre) © Suju / pixabay.com<br>
-								Wir sind - Die Firma: (Portrait- und Gruppenfoto) © Raggio Dorato Photography<br>
-								Wir sind - Die Neuigkeiten: https://de.wikipedia.org/wiki/Datei:Cup_plant.jpg<br>
-								Wir bieten - Unsere Kunden: (Kompost) © Ben_Kerckx / pixabay.com, (Harvested oil palm fruits with workers in background) © t4nkyong / Adobe Stock Bilder, (LKW lädt Container mit Grünschnitt auf dem Wertstoffhof auf) © Kzenon / Adobe Stock Bilder<br>
-								Wir bieten - Ihr Projekt: (Hände) © Scott Graham / unsplash.com<br>
-								Finden Sie uns - Der Kontakt: (Hände) Nic Macmillan / unsplash.com, (Hände am Laptop) © Scott Graham / unsplash.com<br>
-								Wir bieten - Die Broschüren (Deckblatt Broschüren) / Glossar / Datenschutz / Impressum: © Matthis Dierkes / photocase.de<br>
-								Alle anderen: © ECONOMIZER GmbH</p>
-								<p><strong>Videonachweise</strong> © ECONOMIZER GmbH</p>
 
                             </div>
                             <!-- <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">

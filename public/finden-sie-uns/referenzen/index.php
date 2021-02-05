@@ -146,7 +146,7 @@ $nav = "referenzen";
                                     </div>
                                 </div>
 
-
+<p><br>Einige Bilder unserer Referenzen finden Sie in der <a href="../galerie/index.php">Galerie</a>.<br></p>
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 

@@ -3,7 +3,7 @@ $lang = 'de';
 $title = "Ihr Projekt";
 $description = "";
 $include_path = "../../";
-$main_image = "economizer-header-3-1.jpg";
+$main_image = "economizer-header-3-4.jpg";
 $main_nav = "wir-bieten";
 $nav = "ihr-projekt";
 ?>

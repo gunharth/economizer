@@ -41,7 +41,7 @@ $nav = "mission";
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
-                                <img src="/images/economizer-1-4-2.jpg" class="full" alt="">
+                                <img src="/images/bilder-news/italien.jpg" class="full" alt="">
 
                             </div>
                         </div>
@@ -64,7 +64,7 @@ Beides hochverdient - Gratulation!<br>
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
-                                <img src="/images/economizer-1-4-2.jpg" class="full" alt="">
+                                <img src="/images/bilder-news/daumen-hoch.jpg" class="full" alt="">
 
                             </div>
                         </div>
@@ -84,7 +84,7 @@ Beides hochverdient - Gratulation!<br>
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
-                                <img src="/images/economizer-1-4-2.jpg" class="full" alt="">
+                                <img src="/images/bilder-news/ukraine.jpg" class="full" alt="">
 
                             </div>
                         </div>
@@ -105,7 +105,7 @@ Beides hochverdient - Gratulation!<br>
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
-                                <img src="/images/economizer-1-4-2.jpg" class="full" alt="">
+                                <img src="/images/bilder-news/silphie-pflanze.jpg" class="full" alt="">
 
                             </div>
                         </div>

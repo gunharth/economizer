@@ -35,7 +35,7 @@ $nav = "kontakt";
                                 <h2>AGRES SYSTEMS GmbH</h2>
                                 <p><img src="../../svg-icons/telefon-icon.svg" alt="" class="icon-inline" style="height: 31px;"> Telefon +43 kommt noch!!!</p>
                                 <hr />
-                                <p><img src="../../svg-icons/adresse-icon.svg" alt="" class="icon-inline" style="height: 31px;"> Gewerbestraße 2 / 5201 Seekirchen / Österreich</p>
+                                <p><img src="../../svg-icons/adresse-icon.svg" alt="" class="icon-inline" style="height: 31px;"> Gewerbestr. 2 / 5201 Seekirchen / Österreich</p>
                                 <p><strong>@GUNI: Und hier ein Formular laut Enwurf auf office@agres.systems</strong></p>
 
                             </div>
@@ -50,7 +50,7 @@ $nav = "kontakt";
 						<div class="row">
                             <div class="col-xl-8 col-xxl-6">
                                 <h2>Vertriebspartner</h2>
-                                <p>
+                                <hr /><p>
 <strong>Deutschland</strong><br>
 <em>STEAMFIBER Zellulose-Projekte</em><br>
 FIBERS<sup>365</sup> GmbH<br>
@@ -81,7 +81,7 @@ Mr. Udomsak Lohachitpitaks<br>
 Senior Executive Vice President<br>
 Web: <a href="http://www.jiam-energy.com" target="_blank">www.jiam-energy.com</a><br>
 eMail: <a href="mailto:udomsak@jiamenergy.com">udomsak@jiamenergy.com</a>
-								</p>
+								<hr /></p>
 
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">

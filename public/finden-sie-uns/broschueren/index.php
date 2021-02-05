@@ -52,7 +52,7 @@ $nav = "brochueren";
                                         <input type="text" class="form-control input-lg" name="Telefon" id="Telefon" placeholder="Telefon">
                                     </div>
                                     <div class="form-group">
-                                        <input type="email" class="form-control input-lg" id="Email" name="Email" placeholder="Email*" required="">
+                                        <input type="email" class="form-control input-lg" id="Email" name="Email" placeholder="eMail*" required="">
                                     </div>
                                     <div class="form-group">
                                         <select class="form-control input-lg" id="Auswahl" name="Auswahl">

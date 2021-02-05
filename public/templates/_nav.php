@@ -11,7 +11,7 @@
             <li class="nav-item dropdown <?php if ($main_nav == "wir-sind") echo "active"; ?>">
                 <a class="nav-link" href="/wir-sind" id="dropdown84f35faa-9b26-4b75-ba96-dbfba39478a7" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Wir sind</a>
                 <div class="dropdown-menu" aria-labelledby="dropdown84f35faa-9b26-4b75-ba96-dbfba39478a7">
-                    <span>Economizer</span>
+                    <span>Agres Systems</span>
                     <a class="dropdown-item <?php if ($nav == "mission") echo "active"; ?>" href="/wir-sind/mission"><span>•</span> Mission</a>
                     <a class="dropdown-item <?php if ($nav == "maschine") echo "active"; ?>" href="/wir-sind/maschine"><span>•</span> Maschine</a>
                     <a class="dropdown-item <?php if ($nav == "firma") echo "active"; ?>" href="/wir-sind/firma"><span>•</span> Firma</a>
