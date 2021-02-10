@@ -33,7 +33,7 @@ $nav = "kontakt";
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
                                 <h2>AGRES SYSTEMS GmbH</h2>
-                                <p><img src="../../svg-icons/telefon-icon.svg" alt="" class="icon-inline" style="height: 31px;"> Telefon +43 kommt noch!!!</p>
+                                <p><img src="../../svg-icons/telefon-icon.svg" alt="" class="icon-inline" style="height: 31px;"> +43 676 5745829</p>
                                 <hr />
                                 <p><img src="../../svg-icons/adresse-icon.svg" alt="" class="icon-inline" style="height: 31px;"> Gewerbestr. 2 / 5201 Seekirchen / Österreich</p>
                                 <p><strong>@GUNI: Und hier ein Formular laut Enwurf auf office@agres.systems</strong></p>

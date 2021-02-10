@@ -39,10 +39,10 @@ $nav = "";
 								<p><strong>UID-Nummer</strong> ATU75675903</p>
 								<p><strong>Firmenbuchnummer/-gericht</strong> FN 534497a, Landesgericht Graz</p>
 								<p><strong>Firmensitz</strong> Gewerbestr. 2, 5201 Seekirchen am Wallersee, Österreich</p>
-								<p><strong>Telefon</strong> +43 kommt noch ...</p>
+								<p><strong>Telefon</strong> +43 676 5745829</p>
 								<p><strong>eMail</strong> <a href="mailto: office@agres.systems">office@agres.systems</a></p>
-								<p><strong>Mitglied</strong> WKO</p>
-								<p><strong>Gewerbe</strong> ...</p>
+								<p><strong>Mitglied</strong> WKÖ</p>
+								<p><strong>Gewerbe</strong> Mechatroniker für Elektromaschinenbau und Automatisierung verbunden mit Mechatroniker für Maschinen- und Fertigungstechnik; Mechatroniker für Elektronik, Büro- und EDV-Systemtechnik; Mechatroniker für Medizingerätetechnik (verbundenes Handwerk)</p>
 								<hr />
 								<p>Verbraucher haben die Möglichkeit, Beschwerden an die Online-Streitbeilegungsplattform der EU zu richten: <a href="http://ec.europa.eu/odr" target="_blank">http://ec.europa.eu/odr</a>. Sie können allfällige Beschwerden auch an die oben angegebene eMailadresse richten.</p>
 								<hr />

@@ -5,7 +5,6 @@ window.$ = window.jQuery = require("jquery");
 window.Popper = require("popper.js");
 require("bootstrap");
 
-
 $(document).ready(function(){
     $("#navDropdown").on("shown.bs.dropdown", function() {
       if ($(window).width() > 1200 ) {
