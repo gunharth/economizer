@@ -33,10 +33,36 @@ $nav = "kontakt";
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
                                 <h2>AGRES SYSTEMS GmbH</h2>
-                                <p><img src="../../svg-icons/telefon-icon.svg" alt="" class="icon-inline" style="height: 31px;"> +43 676 5745829</p>
+                                <p><img src="../../../svg-icons/telefon-icon.svg" alt="" class="icon-inline" style="height: 31px;"> +43 676 5745829</p>
                                 <hr />
-                                <p><img src="../../svg-icons/adresse-icon.svg" alt="" class="icon-inline" style="height: 31px;"> Gewerbestr. 2 / 5201 Seekirchen / Österreich</p>
-                                <p><strong>@GUNI: Und hier ein Formular laut Enwurf auf office@agres.systems</strong></p>
+                                <p><img src="../../../svg-icons/adresse-icon.svg" alt="" class="icon-inline" style="height: 31px;"> Gewerbestr. 2 / 5201 Seekirchen / Österreich</p>
+                                <form role="form" id="contactForm" name="contactForm" method="post">
+                                    <p><span class="text-highlight">*</span> Erforderliche Felder</p>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control input-lg" name="Name" id="Name" placeholder="Name*" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control input-lg" name="eMail" id="eMail" placeholder="eMail*">
+                                    </div>
+                                    <div class="form-group">
+                                        <textarea name="Nachricht" id="Nachricht" class="form-control input-lg" rows="2" placeholder="Nachricht*"></textarea>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-10">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                                                <label class="form-check-label" for="flexCheckDefault">
+                                                    Ich habe die Datenschutzbestimmungen gelesen
+                                                </label>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-2">
+                                            <div class="form-group text-right">
+                                                <a id="submitContactForm" href=""><img src=" ../../../svg-icons/mail-button.svg" class="icon-inline"  alt="" style="height: 40px;"></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
 
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
@@ -47,41 +73,46 @@ $nav = "kontakt";
                             </div>
                         </div>
 
-						<div class="row">
+                        <div class="row">
                             <div class="col-xl-8 col-xxl-6">
                                 <h2>Vertriebspartner</h2>
-                                <hr /><p>
-<strong>Deutschland</strong><br>
-<em>STEAMFIBER Zellulose-Projekte</em><br>
-FIBERS<sup>365</sup> GmbH<br>
-Hr. Stefan Radlmayr<br>
-Adolf-Scheufelen-Straße 33<br>
-73252 Lenningen<br>
-Deutschland<br>
-eMail: <a href="mailto:sr@fibers365.com">sr@fibers365.com</a>
-</p><hr />
-								<p>
-<strong>Italien</strong><br>
-ORSAMAGGIORE srl<br>
-Mr. Giulio Borgia<br>
-Via Birmania 123<br>
-58100 Grosseto<br>
-Italia<br>
-eMail: <a href="mailto:info@orsamaggiore.tech">info@orsamaggiore.tech</a>
-</p><hr />
-								<p>
-<strong>Polen</strong><br>
-VEGAS Reks<br>
-Hr. Joachim Felix
-</p><hr />
-								<p>
-<strong>Thailand</strong><br>
-JIAMPHATTANA ENERGY GROUP co.,ltd<br>
-Mr. Udomsak Lohachitpitaks<br>
-Senior Executive Vice President<br>
-Web: <a href="http://www.jiam-energy.com" target="_blank">www.jiam-energy.com</a><br>
-eMail: <a href="mailto:udomsak@jiamenergy.com">udomsak@jiamenergy.com</a>
-								<hr /></p>
+                                <hr />
+                                <p>
+                                    <strong>Deutschland</strong><br>
+                                    <em>STEAMFIBER Zellulose-Projekte</em><br>
+                                    FIBERS<sup>365</sup> GmbH<br>
+                                    Hr. Stefan Radlmayr<br>
+                                    Adolf-Scheufelen-Straße 33<br>
+                                    73252 Lenningen<br>
+                                    Deutschland<br>
+                                    eMail: <a href="mailto:sr@fibers365.com">sr@fibers365.com</a>
+                                </p>
+                                <hr />
+                                <p>
+                                    <strong>Italien</strong><br>
+                                    ORSAMAGGIORE srl<br>
+                                    Mr. Giulio Borgia<br>
+                                    Via Birmania 123<br>
+                                    58100 Grosseto<br>
+                                    Italia<br>
+                                    eMail: <a href="mailto:info@orsamaggiore.tech">info@orsamaggiore.tech</a>
+                                </p>
+                                <hr />
+                                <p>
+                                    <strong>Polen</strong><br>
+                                    VEGAS Reks<br>
+                                    Hr. Joachim Felix
+                                </p>
+                                <hr />
+                                <p>
+                                    <strong>Thailand</strong><br>
+                                    JIAMPHATTANA ENERGY GROUP co.,ltd<br>
+                                    Mr. Udomsak Lohachitpitaks<br>
+                                    Senior Executive Vice President<br>
+                                    Web: <a href="http://www.jiam-energy.com" target="_blank">www.jiam-energy.com</a><br>
+                                    eMail: <a href="mailto:udomsak@jiamenergy.com">udomsak@jiamenergy.com</a>
+                                    <hr />
+                                </p>
 
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">

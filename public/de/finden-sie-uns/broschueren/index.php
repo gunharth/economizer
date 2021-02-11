@@ -10,6 +10,7 @@ $nav = "brochueren";
 <?php include($include_path . 'templates/_head.php'); ?>
 
 <body>
+
     <div id="wrapper">
         <div id="wrapper-content">
             <?php include($include_path . 'templates/_nav-de.php'); ?>
@@ -35,9 +36,8 @@ $nav = "brochueren";
                                 <h2>Unser Service</h2>
                                 <p>Als Service bieten wir Ihnen hier die Möglichkeit, sich unsere Infobroschüren über den ECONOMIZER SE in verschiedenen Sprachen kostenlos herunterzuladen.</p>
                                 <p>Registrieren Sie sich dazu bitte hier. Die Downloadlinks werden im Anschluss sofort freigeschaltet.</p>
-                                <p><strong>(Dann Formular und Downloadbereich wie Originallayout bitte.)</strong></p>
 
-                                <form role="form" id="downloadForm" name="downloadForm" method="post" enctype="multipart/form-data">
+                                <form role="form" id="brochuresForm" name="brochuresForm" method="post">
                                     <p><span class="text-highlight">*</span> Erforderliche Felder</p>
                                     <div class="form-group">
                                         <input type="text" class="form-control input-lg" name="Name" id="Name" placeholder="Name*" required="">
@@ -65,9 +65,34 @@ $nav = "brochueren";
                                             <option value="andere">andere</option>
                                         </select>
                                     </div>
-
-                                    <input type="submit" name="submit" id="submit" value="Absenden" class="btn btn-lg btn-warning"> <i id="processing" style="display: none" class="fa fa-lg fa-cog fa-spin"></i>
+                                    <div class="row">
+                                        <div class="col-sm-10">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                                                <label class="form-check-label" for="flexCheckDefault">
+                                                    Ich habe die Datenschutzbestimmungen gelesen
+                                                </label>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-2">
+                                            <div class="form-group text-right">
+                                                <a id="submitBrochuresForm" href=""><img src=" ../../../svg-icons/mail-button.svg" class="icon-inline" alt="" style="height: 40px;"></a>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </form>
+
+
+                                <h2>Unser Downloadbereich</h2>
+                                <p>Als Service bieten wir Ihnen hier die Möglichkeit, sich unsere Infobroschüren über den ECONOMIZER SE in verschiedenen Sprachen kostenlos herunterzuladen.</p>
+                                <p>Registrieren Sie sich dazu bitte hier. Die Downloadlinks werden im Anschluss sofort freigeschaltet.</p>
+                                <div id="brochuresArea">
+                                    <p>
+                                        <img src="../../../svg-icons/pdf-icon-grau.svg" alt="" class="icon-inline" style="height: 38px;">
+                                        Infobroschüre deutsch
+                                    </p>
+                                </div>
+
 
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
@@ -75,6 +100,8 @@ $nav = "brochueren";
                                 <img src="/images/economizer-4-3.png" alt="" class="full">
 
                             </div>
+
+
                         </div>
 
                     </div>
@@ -87,6 +114,51 @@ $nav = "brochueren";
             ?>
         </div>
     </div>
+    <script>
+        // Options for checkout page
+        var brochureFormOptions = {
+            //beforeSubmit: validate,
+            //dataType:  'json',
+            type: 'POST',
+            url: '/mailhandler/brochures.php',
+            target: '#brochuresArea'
+        };
+
+        function validate(formData, jqForm, options) {
+            var form = jqForm[0];
+            var message = 'Bitte füllen Sie folgende Felder aus: \n';
+            var fields = '';
+            if (!form.Name.value) {
+                fields += 'Name\n';
+            }
+            if (!form.Adresse.value) {
+                fields += 'Adresse\n';
+            }
+            var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+            var address = form.Email.value;
+            if (reg.test(address) == false) {
+                fields += 'E-Mail\n';
+            }
+            if (fields != '') {
+                alert(message + fields);
+                return false;
+            }
+        }
+
+        $(function() {
+
+            //$('#brochuresForm').on(function() {
+            $('#brochuresForm').ajaxForm(brochureFormOptions);
+            //     return false;
+            // });
+
+            $('#submitBrochuresForm').on('click', function(e) {
+                e.preventDefault();
+                $('#brochuresForm').ajaxSubmit(brochureFormOptions);
+            });
+
+        });
+    </script>
 </body>
 
 </html>
