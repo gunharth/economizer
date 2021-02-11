@@ -1,5 +1,5 @@
 // Alpine.js handles the show/hide of the mobile nav
-import 'alpinejs'
+//import 'alpinejs'
 // bootstrap js
 window.$ = window.jQuery = require("jquery");
 window.Popper = require("popper.js");
@@ -8,8 +8,9 @@ require("bootstrap");
 $(document).ready(function(){
     $("#navDropdown").on("shown.bs.dropdown", function() {
       if ($(window).width() > 1200 ) {
-        let h = $("#navDropdown .dropdown-menu.show").height() + $("#navDropdown .dropdown-menu.show").offset().top;
-        $("#nav-dropdown-bg").height(h + 16);
+        var h = $("#navDropdown .dropdown-menu.show").height()
+        //+ $("#navDropdown .dropdown-menu.show").offset().top;
+        $("#nav-dropdown-bg").height(h + 80);
         console.log($("#navDropdown .dropdown-menu:eq(0)").height());
         console.log($("#navDropdown .dropdown-menu:eq(0)").offset().top);
         $("#nav-dropdown-bg").show();
@@ -58,3 +59,31 @@ $(function() {
     });
   });
 });
+
+function setCookie(name, value, days) {
+  var expires = "";
+  if (days) {
+    var date = new Date();
+    date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
+    expires = "; expires=" + date.toGMTString();
+  }
+  document.cookie = name + "=" + value + expires + "; path=/";
+}
+
+function getCookie(name) {
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(";");
+  for (var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c[0] == " ") c = c.substring(1, c.length);
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+  }
+  return null;
+}
+if (navigator.language.startsWith("de")) {
+  var cookie = getCookie("browserlang");
+  if (!cookie) {
+    setCookie("browserlang", "de");
+    document.location.href = "/de";
+  }
+}

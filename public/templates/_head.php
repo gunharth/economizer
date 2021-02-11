@@ -1,9 +1,10 @@
 <?php
+error_reporting(0);
 $basepath = '/';
 if ($lang == 'de') {
-    include($include_path . 'glossar/glossar.php');
+    include($include_path . 'de/glossar/glossar.php');
 } else {
-    include($include_path . 'en/glossary/glossar.php');
+    include($include_path . 'glossary/glossar.php');
 }
 
 ?>

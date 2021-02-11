@@ -4,14 +4,14 @@
             <div class="col-sm-6 col-md-4 d-flex flex-wrap align-items-center">
                 <p class="w-100 title">&copy; <?php echo date('Y'); ?> AGRES SYSTEMS GmbH</p>
                 <p class="d-flex d-md-none justify-content-between">
-                    <a href="/imprint" class="pr-1">Imprint</a>
-                    <a href="/disclaimer" class="pr-1">Disclaimer</a>
+                    <a href="/de/impressum" class="pr-1">Impressum</a>
+                    <a href="/de/datenschutz" class="pr-1">Datenschutz</a>
                 </p>
 
             </div>
             <div class="col-md-4 d-none d-md-flex align-items-center" style="justify-content: space-evenly;">
-                <a href="/imprint">Imprint</a>
-                <a href="/disclaimer">Disclaimer</a>
+                <a href="/de/impressum">Impressum</a>
+                <a href="/de/datenschutz">Datenschutz</a>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="d-flex justify-content-end">
