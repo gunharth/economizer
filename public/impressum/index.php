@@ -2,7 +2,7 @@
 $lang = 'de';
 $title = "Impressum";
 $description = "";
-$include_path = "../../";
+$include_path = "../";
 $main_image = "economizer-header-5.jpg";
 $main_nav = "";
 $nav = "";

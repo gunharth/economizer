@@ -11,7 +11,7 @@
                 },
             },
             "content": {
-                "dismiss": "Einverstanden",
+                "dismiss": "Agree",
             },
             "elements": {
                 messagelink: '<span id="cookieconsent:desc" class="cc-message">This website uses cookies to ensure you get the best experience on our website.<a aria-label="learn more about cookies" tabindex="0" class="cc-link" href="/datenschutz/">More info</a></span>',
