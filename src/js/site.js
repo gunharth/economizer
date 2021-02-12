@@ -11,8 +11,8 @@ $(document).ready(function(){
         var h = $("#navDropdown .dropdown-menu.show").height()
         //+ $("#navDropdown .dropdown-menu.show").offset().top;
         $("#nav-dropdown-bg").height(h + 80);
-        console.log($("#navDropdown .dropdown-menu:eq(0)").height());
-        console.log($("#navDropdown .dropdown-menu:eq(0)").offset().top);
+        // console.log($("#navDropdown .dropdown-menu:eq(0)").height());
+        // console.log($("#navDropdown .dropdown-menu:eq(0)").offset().top);
         $("#nav-dropdown-bg").show();
       }
     }).on("hidden.bs.dropdown", function() {
