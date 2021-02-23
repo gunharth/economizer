@@ -20,9 +20,9 @@ $nav = "company";
             <main class="container-lg">
                 <div class="row">
                     <div class="col-md-4 col-xl-3 col-xxl-3">
-                        <h1><span class="orange forcelinebreak">Die</span> Firma</h1>
+                        <h1><span class="orange forcelinebreak">The</span> Company</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Wir haben alle <br>Steam Explosion <br>im Blut.
+                            We all have <br>Steam Explosion <br>in our blood.
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -32,15 +32,15 @@ $nav = "company";
 
                         <div class="row">
                             <div class="col-xl-7 col-xxl-6">
-                                <h2>Das sind wir</h2>
-                                <p>Als weltweit einziges Unternehmen bieten wir mit dem ECONOMIZER SE eine technisch und wirtschaftlich bewährte Steam Explosion-Technologie für Biogasanlagen an.</p>
-                                <p>Hinter diesem Erfolg steht unser erfahrenes Team aus Ingenieuren und Anlagenbauern. Wir sind die Top-Experten für Steam Explosion-Anwendungen im Bereich Biogas.</p>
-                                <p>Wir geben unser Bestes für unser gemeinsames Ziel: nachhaltig erzeugte, erneuerbare Energie aus organischen Reststoffen.</p>
-                                <p><strong>Im Bild oben von links nach rechts:</strong><br />
+                                <h2>This is us</h2>
+                                <p>We are the only company in the world offering a technically and economically proven Steam Explosion system for biogas plants: the ECONOMIZER SE technology.</p>
+                                <p>Behind this success stands an experienced team of engineers and plant constructors. We are the absolute experts for Steam Explosion applications in the field of biogas.</p>
+                                <p>We give our best for our common goal: sustainably generated renewable energy from organic residues.</p>
+                                <p><strong>In the above picture from left to right:</strong><br />
                                     Hermann Dauser (CTO)<br />
 									Helge Leinich (MD/CEO)<br />
                                     Felix Nussbaumer (CFO)</p>
-                                <p>Im Gruppenbild – das Team</p>
+                                <p>In the group picture – the team</p>
 
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">

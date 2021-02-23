@@ -23,7 +23,7 @@ $nav = "kennzahlen";
                     <div class="col-md-4 col-xl-3 col-xxl-3">
                         <h1><span class="orange forcelinebreak">Die</span> Kennzahlen</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Die Bilanz sind 10.000 m³ Biogas aus 20 Tonnen Stroh – jeden Tag.
+                            Die Bilanz sind 10.000 m³ Biogas <br>aus 20 Tonnen Stroh – <br>jeden Tag.
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -53,7 +53,7 @@ $nav = "kennzahlen";
                                             </tr>
                                             <tr>
                                                 <td><strong>Produziertes Gärsubstrat:</strong></td>
-                                                <td colspan="2">60 t/Tag (bei 30 %TS)</td>
+                                                <td colspan="2">60 t/Tag (bei 30 % TS)</td>
                                             </tr>
                                             <tr>
                                                 <td><strong>Gärpotential:</strong></td>

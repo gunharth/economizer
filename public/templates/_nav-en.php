@@ -13,7 +13,7 @@
                 <div class="dropdown-menu" aria-labelledby="dropdown84f35faa-9b26-4b75-ba96-dbfba39478a7">
                     <span>Agres Systems</span>
                     <a class="dropdown-item <?php if ($nav == "mission") echo "active"; ?>" href="/en/we-are/mission"><span>•</span> Mission</a>
-                    <a class="dropdown-item <?php if ($nav == "maschine") echo "active"; ?>" href="/en/we-are/maschine"><span>•</span> Maschine</a>
+                    <a class="dropdown-item <?php if ($nav == "machine") echo "active"; ?>" href="/en/we-are/machine"><span>•</span> Machine</a>
                     <a class="dropdown-item <?php if ($nav == "company") echo "active"; ?>" href="/en/we-are/company"><span>•</span> Company</a>
                     <a class="dropdown-item <?php if ($nav == "news") echo "active"; ?>" href="/en/we-are/news"><span>•</span> News</a>
 

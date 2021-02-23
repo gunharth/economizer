@@ -33,7 +33,7 @@ $nav = "maschine";
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
                                 <h2>Unsere Serienmaschine</h2>
-                                <p>Die ECONOMIZER SE gibt es als Serienmaschine in der Baugröße 2.5:</p>
+                                <p>Die ECONOMIZER SE gibt es als Serienmaschine in der Baugröße&nbsp;2.5:</p>
                                 <hr />
                                 <p><strong>Verarbeitungskapazität:</strong> 6.000 Tonnen Trockensubstanz pro Jahr<br />
                                     <strong>Energiebedarf:</strong> 25 kW Strom – 275 kW Wärme permanent<br />

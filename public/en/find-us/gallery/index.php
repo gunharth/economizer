@@ -20,9 +20,9 @@ $nav = "gallery";
             <main class="container-lg">
                 <div class="row">
                     <div class="col-md-4 col-xxl-3">
-                        <h1><span class="orange forcelinebreak">Die</span> Galerie</h1>
+                        <h1><span class="orange forcelinebreak">The</span> Gallery</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Damit Sie sich jetzt schon<br> an den Anblick <br> gewöhnen können.
+                            So that you can get used<br> to the sight <br> now.
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -36,14 +36,14 @@ $nav = "gallery";
 
                         <div class="row">
                             <div class="col-md-12">
-                                <h2>Unsere Fotos</h2>
+                                <h2>Our Photos</h2>
                             </div>
                             <div class="row justify-content-center">
                                 <div class="col-md-12">
                                     <div class="row">
 
                                         <!-- bilder  -->
-                                        <a href="/images/bilder-galerie/italien-leona.jpg?image=251" data-footer="Società Agricola Leona S.S., Italien" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+                                        <a href="/images/bilder-galerie/italien-leona.jpg?image=251" data-footer="Società Agricola Leona S.S., Italy" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
                                             <img src="/images/bilder-galerie/italien-leona.jpg?image=251" class="img-fluid">
                                         </a>
                                         <a href="/images/bilder-galerie/ukraine-teofipol1.jpg?image=252" data-footer="Teofipolskey Sugar Mill, Ukraine" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
@@ -54,6 +54,16 @@ $nav = "gallery";
                                         </a>
 
                                     </div>
+									
+									<div class="row">
+
+                                        <!-- bilder  -->
+                                        <a href="/images/bilder-galerie/deutschland-hahnennest.jpg?image=254" data-footer="Energiepark Hahnennest, Germany" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+                                            <img src="/images/bilder-galerie/deutschland-hahnennest.jpg?image=254" class="img-fluid">
+                                        </a>
+                                       
+
+                                    </div>
 
                                 </div>
                             </div>
@@ -61,7 +71,7 @@ $nav = "gallery";
 
 						<div class="row">
                             <div class="col-md-12">
-                                <h2>Unsere Videos</h2>
+                                <h2>Our Videos</h2>
 
 
                             </div>

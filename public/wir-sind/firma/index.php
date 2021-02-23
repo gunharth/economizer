@@ -33,7 +33,7 @@ $nav = "firma";
                         <div class="row">
                             <div class="col-xl-7 col-xxl-6">
                                 <h2>Das sind wir</h2>
-                                <p>Als weltweit einziges Unternehmen bieten wir mit dem ECONOMIZER SE eine technisch und wirtschaftlich bewährte Steam Explosion-Technologie für Biogasanlagen an.</p>
+                                <p>Als weltweit einziges Unternehmen bieten wir mit der ECONOMIZER SE eine technisch und wirtschaftlich bewährte Steam Explosion-Technologie für Biogasanlagen an.</p>
                                 <p>Hinter diesem Erfolg steht unser erfahrenes Team aus Ingenieuren und Anlagenbauern. Wir sind die Top-Experten für Steam Explosion-Anwendungen im Bereich Biogas.</p>
                                 <p>Wir geben unser Bestes für unser gemeinsames Ziel: nachhaltig erzeugte, erneuerbare Energie aus organischen Reststoffen.</p>
                                 <p><strong>Im Bild oben von links nach rechts:</strong><br />

@@ -52,13 +52,13 @@ $nav = "kontakt";
                                             <div class="form-check">
                                                 <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
                                                 <label class="form-check-label" for="flexCheckDefault">
-                                                    Ich habe die Datenschutzbestimmungen gelesen
+                                                    Ich habe die <a href="../../datenschutz/index.php" target="_blank">Datenschutzbestimmungen</a> gelesen.
                                                 </label>
                                             </div>
                                         </div>
                                         <div class="col-sm-2">
                                             <div class="form-group text-right">
-                                                <a id="submitContactForm" href=""><img src="<?php echo $include_path; ?>svg-icons/mail-button.svg" class="icon-inline" alt="" style="height: 40px;"></a>
+                                                <a id="submitContactForm" href=""><img src="<?php echo $include_path; ?>svg-icons/mail-button.svg" class="icon-inline" alt="" style="height: 60px;"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -100,8 +100,9 @@ $nav = "kontakt";
                                 <hr />
                                 <p>
                                     <strong>Polen</strong><br>
-                                    VEGAS Reks<br>
-                                    Hr. Joachim Felix
+                                    Hr. Joachim Felix<br>
+									Repräsentant AGRES SYSTEMS GmbH<br>
+									eMail: <a href="mailto:j.felix@agres.systems">j.felix@agres.systems</a>
                                 </p>
                                 <hr />
                                 <p>
@@ -109,7 +110,6 @@ $nav = "kontakt";
                                     JIAMPHATTANA ENERGY GROUP co.,ltd<br>
                                     Mr. Udomsak Lohachitpitaks<br>
                                     Senior Executive Vice President<br>
-                                    Web: <a href="http://www.jiam-energy.com" target="_blank">www.jiam-energy.com</a><br>
                                     eMail: <a href="mailto:udomsak@jiamenergy.com">udomsak@jiamenergy.com</a>
                                     <hr />
                                 </p>

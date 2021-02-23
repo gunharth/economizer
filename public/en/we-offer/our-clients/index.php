@@ -20,9 +20,9 @@ $nav = "our-clients";
             <main class="container-lg">
                 <div class="row">
                     <div class="col-md-4 col-xxl-3">
-                        <h1><span class="orange forcelinebreak">Unsere</span> Kunden</h1>
+                        <h1><span class="orange forcelinebreak">Our</span> Clients</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Es wird schwer sein, Biogasanlagen zukünftig ohne ECONOMIZER SE zu betreiben.
+                            It will be hard in future <br>to operate biogas plants <br>without ECONOMIZER SE.
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -32,13 +32,13 @@ $nav = "our-clients";
 
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
-                                <h2>Betreiber landwirtschaftlicher Biogasanlagen</h2>
-                                <p>Steigende Substratkosten und Auflagen zum Einsatz alternativer Substrate belasten die Wirtschaftlichkeit Ihrer Anlage.</p>
-                                <p>Mit der ECONOMIZER SE bereiten Sie Stroh, Mist und viele andere landwirtschaftliche Reststoffe so auf, dass Ihre Biogasanlage diese störungsfrei und mit sehr hohen Gaserträgen verwerten kann.</p>
-                                <h2>Betreiber von Abfall-Biogasanlagen</h2>
-                                <p>Anlagen zur anaeroben Biomüll- und Lebensmittelabfall-Behandlung sind heute Stand der Technik.</p>
-                                <p>Durch die einseitige Substratcharakteristik sind sie aber nicht einfach zu betreiben.</p>
-                                <p>ECONOMIZER SE bietet die Möglichkeit, zusätzlich nährstoffarme Substrate wie Reststroh einzusetzen, die das Fermenter-Gleichgewicht stabilisieren und die Biogaserträge deutlich steigern.</p>
+                                <h2>Operators of agricultural biogas plants</h2>
+                                <p>Increasing feedstock costs and tough regulations demanding alternative feedstocks burden your plant's economy.</p>
+                                <p>With the ECONOMIZER SE you will process straw, manure and other agricultural residues so that your biogas plant is able to digest these substrates trouble-free and with impressive biomethane yields.</p>
+                                <h2>Operators of waste AD plants</h2>
+                                <p>Installations for anaerobic biowaste and foodwaste digestion are state of the art.</p>
+                                <p>However the one-sided feedstock characteristics are difficult to handle.</p>
+                                <p>ECONOMIZER SE provides the opportunity to add low in nutrient substrates like residual straw, which stabilises the fermentation balance and increases biomethane yields significantly.</p>
 
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
@@ -51,12 +51,12 @@ $nav = "our-clients";
 
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
-                                <h2>Biomasse-Entsorger</h2>
-                                <p>Sortierter Grünschnitt und Landschaftspflegematerial müssen nicht komplett kompostiert werden.</p>
-                                <p>Sinnvoller ist die Umwandlung in Biogas. Nach der Vorbehandlung mit der ECONOMIZER SE-Technologie wird Abfall-Biomasse als hochwertiges Alternativ-Substrat zur nachhaltigen Energieerzeugung eingesetzt.</p>
-                                <h2>Agrar-Industrie</h2>
-                                <p>Weltweit werden riesige Mengen an Reststoffen in der Industrie nicht oder ineffizient genutzt. Bagasse und Palmölabfälle sind bekannte Beispiele.</p>
-                                <p>Vergären Sie diese Reststoffe nach der ECONOMIZER SE-Behandlung, und erzeugen Sie nachhaltig erneuerbare Energie – zur Selbstversorgung oder Netzeinspeisung.</p>
+                                <h2>Green waste disposers</h2>
+                                <p>Assorted green waste and landscaping residues don't have to take the composting path completely.</p>
+                                <p>Much more sense it makes to produce biogas. After pre-treatment with the ECONOMIZER SE technology waste biomass is converted into a high-value alternativ feedstock for a sustainable energy generation.</p>
+                                <h2>Agricultural industry</h2>
+                                <p>Worldwide huge quantities of industrial waste and residual materials are used inefficently or simply disposed of. Sugar cane bagasse or palm oil fruit residues are well known examples.</p>
+                                <p>Why not digest these feedstocks after treatment with ECONOMIZER SE, and generate sustainable renewable energy for self-sufficiency or grid feed?</p>
 
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between align-items-start">
@@ -70,8 +70,8 @@ $nav = "our-clients";
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
                                 <hr />
-                                <p>Die Mindestanlagengröße für den Einsatz der ECONOMIZER SE-Technologie beträgt typisch 1 MW (Verstromung) bzw. 250 Nm3/h Biomethan (Einspeiseanlage).</p>
-                                <p>Bei Biogasanlagen über 1,5 MW können mehrere ECONOMIZER SE installiert werden.</p>
+                                <p>The minimum size to apply the ECONOMIZER technology typically is 1 MW (electricity production) resp. 250 m³/h biomethane (gas2grid).</p>
+                                <p>For biogas plants exceeding 1.5 MW several ECONOMIZER SE lines can be installed.</p>
 
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between">

@@ -70,13 +70,13 @@ $nav = "brochueren";
                                             <div class="form-check">
                                                 <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
                                                 <label class="form-check-label" for="flexCheckDefault">
-                                                    Ich habe die Datenschutzbestimmungen gelesen
+                                                    Ich habe die <a href="../../datenschutz/index.php" target="_blank">Datenschutzbestimmungen</a> gelesen.
                                                 </label>
                                             </div>
                                         </div>
                                         <div class="col-sm-2">
                                             <div class="form-group text-right">
-                                                <a id="submitBrochuresForm" href=""><img src="<?php echo $include_path;?>svg-icons/mail-button.svg" class="icon-inline" alt="" style="height: 40px;"></a>
+                                                <a id="submitBrochuresForm" href=""><img src="<?php echo $include_path;?>svg-icons/mail-button.svg" class="icon-inline" alt="" style="height: 60px;"></a>
                                             </div>
                                         </div>
                                     </div>
@@ -84,12 +84,16 @@ $nav = "brochueren";
 
 
                                 <h2>Unser Downloadbereich</h2>
-                                <p>Als Service bieten wir Ihnen hier die Möglichkeit, sich unsere Infobroschüren über den ECONOMIZER SE in verschiedenen Sprachen kostenlos herunterzuladen.</p>
-                                <p>Registrieren Sie sich dazu bitte hier. Die Downloadlinks werden im Anschluss sofort freigeschaltet.</p>
+                                
                                 <div id="brochuresArea">
                                     <p>
                                         <img src="<?php echo $include_path;?>svg-icons/pdf-icon-grau.svg" alt="" class="icon-inline" style="height: 38px;">
                                         Infobroschüre deutsch
+                                    </p>
+									
+									<p>
+                                        <img src="<?php echo $include_path;?>svg-icons/pdf-icon-grau.svg" alt="" class="icon-inline" style="height: 38px;">
+                                        Infobroschüre englisch
                                     </p>
                                 </div>
 

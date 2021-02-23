@@ -38,7 +38,7 @@ $nav = "";
 								<p><strong>Geschäftsführer</strong> DI Helge Leinich</p>
 								<p><strong>UID-Nummer</strong> ATU75675903</p>
 								<p><strong>Firmenbuchnummer/-gericht</strong> FN 534497a, Landesgericht Graz</p>
-								<p><strong>Firmensitz</strong> Gewerbestr. 2, 5201 Seekirchen am Wallersee, Österreich</p>
+								<p><strong>Firmensitz</strong> Graz / <strong>Produktionsstandort</strong> Gewerbestr. 2, 5201 Seekirchen am Wallersee, Österreich</p>
 								<p><strong>Telefon</strong> +43 676 5745829</p>
 								<p><strong>eMail</strong> <a href="mailto: office@agres.systems">office@agres.systems</a></p>
 								<p><strong>Mitglied</strong> WKÖ</p>

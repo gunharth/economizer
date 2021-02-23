@@ -20,9 +20,9 @@ $nav = "contact";
             <main class="container-lg">
                 <div class="row">
                     <div class="col-md-4 col-xxl-3">
-                        <h1><span class="orange forcelinebreak">Der</span> Kontakt</h1>
+                        <h1><span class="orange forcelinebreak">The</span> Contact</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Hier können Sie uns alles fragen –<br> oder einfach nur <br> Ihre Begeisterung ausdrücken.
+                            Here you can ask any of us –<br> or just express <br> your enthusiasm.
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -35,7 +35,7 @@ $nav = "contact";
                                 <h2>AGRES SYSTEMS GmbH</h2>
                                 <p><img src="<?php echo $include_path;?>svg-icons/telefon-icon.svg" alt="" class="icon-inline" style="height: 31px;"> +43 676 5745829</p>
                                 <hr />
-                                <p><img src="<?php echo $include_path;?>svg-icons/adresse-icon.svg" alt="" class="icon-inline" style="height: 31px;"> Gewerbestr. 2 / 5201 Seekirchen / Österreich</p>
+                                <p><img src="<?php echo $include_path;?>svg-icons/adresse-icon.svg" alt="" class="icon-inline" style="height: 31px;"> Gewerbestr. 2 / 5201 Seekirchen / Austria</p>
                                 <p><strong>@GUNI: Und hier ein Formular laut Enwurf auf office@agres.systems</strong></p>
 
                             </div>
@@ -49,39 +49,42 @@ $nav = "contact";
 
 						<div class="row">
                             <div class="col-xl-8 col-xxl-6">
-                                <h2>Vertriebspartner</h2>
+                                <h2>Distribution partners</h2>
                                 <hr /><p>
-<strong>Deutschland</strong><br>
-<em>STEAMFIBER Zellulose-Projekte</em><br>
-FIBERS<sup>365</sup> GmbH<br>
-Hr. Stefan Radlmayr<br>
-Adolf-Scheufelen-Straße 33<br>
-73252 Lenningen<br>
-Deutschland<br>
-eMail: <a href="mailto:sr@fibers365.com">sr@fibers365.com</a>
-</p><hr />
-								<p>
-<strong>Italien</strong><br>
-ORSAMAGGIORE srl<br>
-Mr. Giulio Borgia<br>
-Via Birmania 123<br>
-58100 Grosseto<br>
-Italia<br>
-eMail: <a href="mailto:info@orsamaggiore.tech">info@orsamaggiore.tech</a>
-</p><hr />
-								<p>
-<strong>Polen</strong><br>
-VEGAS Reks<br>
-Hr. Joachim Felix
-</p><hr />
-								<p>
-<strong>Thailand</strong><br>
-JIAMPHATTANA ENERGY GROUP co.,ltd<br>
-Mr. Udomsak Lohachitpitaks<br>
-Senior Executive Vice President<br>
-Web: <a href="http://www.jiam-energy.com" target="_blank">www.jiam-energy.com</a><br>
-eMail: <a href="mailto:udomsak@jiamenergy.com">udomsak@jiamenergy.com</a>
-								<hr /></p>
+<strong>Germany</strong><br>
+                                    <em>STEAMFIBER Cellulose-Projects</em><br>
+                                    FIBERS<sup>365</sup> GmbH<br>
+                                    Mr. Stefan Radlmayr<br>
+                                    Adolf-Scheufelen-Str. 33<br>
+                                    73252 Lenningen<br>
+                                    Germany<br>
+                                    eMail: <a href="mailto:sr@fibers365.com">sr@fibers365.com</a>
+                                </p>
+                                <hr />
+                                <p>
+                                    <strong>Italy</strong><br>
+                                    ORSAMAGGIORE srl<br>
+                                    Mr. Giulio Borgia<br>
+                                    Via Birmania 123<br>
+                                    58100 Grosseto<br>
+                                    Italy<br>
+                                    eMail: <a href="mailto:info@orsamaggiore.tech">info@orsamaggiore.tech</a>
+                                </p>
+                                <hr />
+                                <p>
+                                    <strong>Poland</strong><br>
+                                    Mr. Joachim Felix<br>
+									Representative AGRES SYSTEMS GmbH<br>
+									eMail: <a href="mailto:j.felix@agres.systems">j.felix@agres.systems</a>
+                                </p>
+                                <hr />
+                                <p>
+                                    <strong>Thailand</strong><br>
+                                    JIAMPHATTANA ENERGY GROUP co.,ltd<br>
+                                    Mr. Udomsak Lohachitpitaks<br>
+                                    Senior Executive Vice President<br>
+                                    eMail: <a href="mailto:udomsak@jiamenergy.com">udomsak@jiamenergy.com</a>
+                                    <hr /></p>
 
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">

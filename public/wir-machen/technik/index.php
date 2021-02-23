@@ -41,7 +41,7 @@ $nav = "technik";
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
-                                <a href="/images/economizer-2-3.jpg" data-footer="Vermischung der vorzerkleinerten Reststoffe mit Brauchwasser <span class='orange'>(1)</span> / Vorerhitzung durch rezirkulierten Prozessdampf <span class='orange'>(2)</span> / Druckschleuse <span class='orange'>(3)</span> / Druck-Koch-Reaktor <span class='orange'>(4)</span> / Steam-Explosion-Entspannungsleitung <span class='orange'>(5)</span> / Zwischenspeicher und Abkühlung <span class='orange'>(6)</span> / Fermenterbeschickung <span class='orange'>(7)</span>" data-toggle="lightbox">
+                                <a href="/images/economizer-2-3.jpg" data-footer="Vermischung der vorzerkleinerten Reststoffe mit Brauchwasser <span class='orange'>(1)</span>&nbsp;/ Vorerhitzung durch rezirkulierten Prozessdampf <span class='orange'>(2)</span>&nbsp;/ Druckschleuse <span class='orange'>(3)</span>&nbsp;/ Druck-Koch-Reaktor <span class='orange'>(4)</span>&nbsp;/ Steam-Explosion-Entspannungsleitung <span class='orange'>(5)</span>&nbsp;/ Zwischenspeicher und Abkühlung <span class='orange'>(6)</span>&nbsp;/ Fermenterbeschickung <span class='orange'>(7)</span>" data-toggle="lightbox">
                                     <img src="/images/economizer-2-3.jpg" alt="" class="full">
                                 </a>
 

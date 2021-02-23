@@ -20,9 +20,9 @@ $nav = "your-project";
             <main class="container-lg">
                 <div class="row">
                     <div class="col-md-4 col-xxl-3">
-                        <h1><span class="orange forcelinebreak">Ihr</span> Projekt</h1>
+                        <h1><span class="orange forcelinebreak">Your</span> Project</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Nur vom Reden <br> passiert nichts.<br> Packen Sie’s an!
+                            Just talking <br> nothing happens. <br> Get on with it!
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -32,7 +32,7 @@ $nav = "your-project";
 
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
-                                <h2>Ihre Eckdaten …</h2>
+                                <h2>Your project's key data …</h2>
                                 <p>(Dann hier ein Formular!)</p>
 
                             </div>

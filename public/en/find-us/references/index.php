@@ -20,9 +20,9 @@ $nav = "references";
             <main class="container-lg">
                 <div class="row">
                     <div class="col-md-4 col-xxl-3">
-                        <h1><span class="orange forcelinebreak">Die</span> Referenzen</h1>
+                        <h1><span class="orange forcelinebreak">The</span> References</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Sie sind nicht unser erster Kunde.<br> Trotzdem werden wir <br> Sie so behandeln.
+                            You are not our first customer.<br> Still, we will treat you <br> that way.
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -32,7 +32,7 @@ $nav = "references";
 
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
-                                <h2>Unsere Auftraggeber</h2>
+                                <h2>Our Clients</h2>
 
 
 
@@ -40,7 +40,7 @@ $nav = "references";
                                     <div class="card">
                                         <div class="card-head" id="headingOne">
                                             <h3 class="mb-0 collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                                Società Agricola Leona S.S. <span>Italien</span>
+                                                Società Agricola Leona S.S. <span>Italy</span>
                                             </h3>
                                         </div>
 
@@ -50,8 +50,8 @@ $nav = "references";
                                                     <table class="table table-borderless">
                                                         <tbody>
                                                             <tr>
-                                                                <td><strong>Kunde:</strong></td>
-                                                                <td colspan="2">Società Agricola Leona S.S.<br>44021 Codigoro, Italien</td>
+                                                                <td><strong>Client:</strong></td>
+                                                                <td colspan="2">Società Agricola Leona S.S.<br>44021 Codigoro, Italy</td>
                                                             </tr>
                                                             <tr>
                                                                 <td><strong>Anlage:</strong></td>
@@ -85,7 +85,7 @@ $nav = "references";
                                                     <table class="table table-borderless">
                                                         <tbody>
                                                             <tr>
-                                                                <td><strong>Kunde:</strong></td>
+                                                                <td><strong>Client:</strong></td>
                                                                 <td colspan="2">Teofipolskey Sugar Mill<br>30600 Teofipol, Ukraine</td>
                                                             </tr>
                                                             <tr>
@@ -111,7 +111,7 @@ $nav = "references";
                                     <div class="card">
                                         <div class="card-head" id="headingThree">
                                             <h3 class="mb-0 collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                Outnature GmbH <span>Deutschland</span>
+                                                Outnature GmbH <span>Germany</span>
                                             </h3>
                                         </div>
                                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
@@ -120,7 +120,7 @@ $nav = "references";
                                                     <table class="table table-borderless">
                                                         <tbody>
                                                             <tr>
-                                                                <td><strong>Kunde:</strong></td>
+                                                                <td><strong>Client:</strong></td>
                                                                 <td colspan="2">Outnature GmbH<br>Energiepark Hahnennest</td>
                                                             </tr>
                                                             <tr>
@@ -146,7 +146,7 @@ $nav = "references";
                                     </div>
                                 </div>
 
-<p><br>Einige Bilder unserer Referenzen finden Sie in der <a href="../galerie/index.php">Galerie</a>.<br></p>
+<p><br>For some pictures of our references have a look at our <a href="../gallery/index.php">gallery</a>.<br></p>
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 

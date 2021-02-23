@@ -21,9 +21,9 @@ $nav = "key-figures";
             <main class="container-lg">
                 <div class="row">
                     <div class="col-md-4 col-xl-3 col-xxl-3">
-                        <h1><span class="orange forcelinebreak">Die</span> Kennzahlen</h1>
+                        <h1><span class="orange forcelinebreak">The</span> Key Figures</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Die Bilanz sind 10.000 m³ Biogas aus 20 Tonnen Stroh – jeden Tag.
+                            The balance is 10,000 m³ biogas <br>from 20 tons of straw – <br>day by day.
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -33,7 +33,7 @@ $nav = "key-figures";
 
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
-                                <h2>ECONOMIZER SE 2.5 – basic case</h2>
+                                <h2>ECONOMIZER SE 2.5 – the Basic Case</h2>
                                 <hr />
 
 
@@ -41,36 +41,36 @@ $nav = "key-figures";
                                     <table class="table table-borderless">
                                         <tbody>
                                             <tr>
-                                                <td><strong>Kapazität:</strong></td>
-                                                <td colspan="2">6.000 Tonnen Trockensubstanz pro Jahr<br />
-                                                    (das sind 7.000 t Stroh oder bis zu 21.000 t Mist oder…)</td>
+                                                <td><strong>Capacity:</strong></td>
+                                                <td colspan="2">6,000 tons dry matter per year<br />
+                                                    (that's 7,000 tons of straw or up to 21,000 tons of manure or…)</td>
                                             </tr>
                                             <tr>
-                                                <td><strong>Energiebedarf:</strong></td>
-                                                <td colspan="2">25 kW Strom (600 kWh/Tag)<br />
-													275 kW Wärme (6.000 kWh/Tag)<br />
-                                                    (Hochtemperatur-Wärme: AbgasWT oder Brenner)</td>
+                                                <td><strong>Energy consumption:</strong></td>
+                                                <td colspan="2">25 kW electricity (600 kWh/day)<br />
+													275 kW caloric power (6,000 kWh/day)
+													</td>
                                             </tr>
                                             <tr>
-                                                <td><strong>Produziertes Gärsubstrat:</strong></td>
-                                                <td colspan="2">60 t/Tag (bei 30 %TS)</td>
+                                                <td><strong>Produced feedstock:</strong></td>
+                                                <td colspan="2">60 tons/day (at 30 % dry matter)</td>
                                             </tr>
                                             <tr>
-                                                <td><strong>Gärpotential:</strong></td>
-                                                <td colspan="2">9.000 bis 11.000 m³ Biogas pro Tag</td>
+                                                <td><strong>Biogas potential:</strong></td>
+                                                <td colspan="2">9,000 to 11,000 m³ biogas per day</td>
                                             </tr>
                                             <tr>
-                                                <td><strong>Typische Biogaserträge:</strong></td>
-                                                <td>Stroh (A-Qualität)<br />
-                                                    Altstroh<br />
-                                                    Stallmist<br />
-                                                    Bagasse<br />
-                                                    Grünschnitt</td>
-                                                <td>520 m³/tFM<br />
-                                                    340 m³/tFM<br />
-                                                    125 m³/tFM<br />
-                                                    450 m³/tFM<br />
-                                                    200 m³/tFM</td>
+                                                <td><strong>Typical biogas yields:</strong></td>
+                                                <td>straw (A-quality)<br />
+                                                    straw (B/C-quality)<br />
+                                                    manure rich in straw)<br />
+                                                    bagasse<br />
+                                                    green waste</td>
+                                                <td>520 m³/ton FM<br />
+                                                    340 m³/ton FM<br />
+                                                    125 m³/ton FM<br />
+                                                    450 m³/ton FM<br />
+                                                    200 m³/ton FM</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -87,30 +87,30 @@ $nav = "key-figures";
 
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
-                                <h2>STEAMFIBER –<br>das AGROWFIBER SE „upgrade“</h2>
+                                <h2>STEAMFIBER –<br>the AGROWFIBER SE &ldquo;upgrade&rdquo;</h2>
 								 <hr />
 
                                 <div class="table-responsive-sm">
                                     <table class="table table-borderless">
                                         <tbody>
                                             <tr>
-                                                <td><strong>Kapazität:</strong></td>
-                                                <td colspan="2">11.000 Tonnen Trockensubstanz pro Jahr<br />
-                                                    (das sind 13.000 t Stroh)</td>
+                                                <td><strong>Capacity:</strong></td>
+                                                <td colspan="2">11,000 tons dry matter per year<br />
+                                                    (that's 13,000 tons of straw)</td>
                                             </tr>
                                             <tr>
-                                                <td><strong>Energiebedarf:</strong></td>
-                                                <td colspan="2">225 kW Strom (5.400 kWh/Tag)<br />
-													550 kW Wärme (12.000 kWh/Tag)<br />
-                                                    (Hochtemperatur-Wärme: AbgasWT oder Gasbrenner)</td>
+                                                <td><strong>Energy consumption:</strong></td>
+                                                <td colspan="2">225 kW electricity (5,400 kWh/day)<br />
+													550 kW caloric power (12,000 kWh/day)
+												</td>
                                             </tr>
 
-                                                <td><strong>Gärpotential:</strong></td>
-                                                <td colspan="2">8.250 bis 10.000 m³ Biogas pro Tag</td>
+                                                <td><strong>Biogas potential:</strong></td>
+                                                <td colspan="2">8,250 to 10,000 m³ biogas per day</td>
                                             </tr>
                                             <tr>
-                                                <td><strong>Zellulose-Produktion:</strong></td>
-                                                <td>6.000 t Zellulose pro Jahr (atro)</td>
+                                                <td><strong>Pulp production:</strong></td>
+                                                <td>6,000 tons cellulose fibers (pulp) per year (bdu)</td>
                                                 <td></td>
                                             </tr>
                                         </tbody>

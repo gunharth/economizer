@@ -20,11 +20,11 @@ $nav = "mission";
             <main class="container-lg">
                 <div class="row">
                     <div class="col-md-4 col-xl-3 col-xxl-3">
-                        <h1><span class="orange forcelinebreak">Die</span> Neuigkeiten</h1>
+                        <h1><span class="orange forcelinebreak">The</span> News</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Projekte, Messen, Nachrichten - <br>
-                            wir halten Sie <br>
-                            auf dem Laufenden.
+                            Projects, fairs, news – <br>
+                            we keep you <br>
+                            updated.
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -34,9 +34,9 @@ $nav = "mission";
 
                         <div class="row">
                             <div class="col-xl-7 col-xxl-6">
-                                <h2>Erste Economizer SE 2.5-Anlage in Italien</h2>
-                                <p><strong>Februar 2021</strong><br><br>
-									Der neue Biomethan-Tarif in Italien fordert 50 % Reststoff-Einsatz. Für viele unmöglich – nicht für die erfahrenen Biogas-Fachleute und Agrarunternehmer der Gestione Agricole Cavallari: Für die Erweiterung der bestehenden 1 MW-Anlage um eine zweite Linie zur Biomethan-Erzeugung entschied man sich für einen ECONOMIZER SE 2.5. Unsere erste Anlage in Italien ist nun in Betrieb, und es ist sicher nicht unsere letzte.
+                                <h2>First ECONOMIZER SE 2.5 plant in Italy</h2>
+                                <p><strong>February 2021</strong><br><br>
+									Italy's new biomethane feed-in tariff demands 50 % feedstock from residues or waste. Impossible for many – but not for the experienced biogas experts and agricultural entrepreneurs from Gestione Agricole Cavallari: to realise the extension of their 1 MW biogas plant for a parallel gas2grid line they selected the ECONOMIZER SE 2.5. Our first reference plant in Italy is now up and running, and for sure it won't be our last one.
 								</p>
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
@@ -54,17 +54,19 @@ $nav = "mission";
 
                         <div class="row">
                             <div class="col-xl-7 col-xxl-6">
-                                <h2>Neues aus dem Hahnennest: 2 Preise für Verpackungen aus Silphie-Fasern</h2>
-                                <p><strong>Jänner 2021</strong><br><br>
-									Ein großer Erfolg für unsere ECONOMIZER-Technologie und das AGROWFIBER-Upgrade: Die Outnature GmbH, Teil der Schwarz-Gruppe (Lidl, Kaufland), hat mit alternativen Lebensmittel-Verpackungen aus Silphiefasern zwei renommierte Preise abgeräumt:<br>
-Gewinner des Deutschen Verpackungspreises 2020 in der Kategorie „neues Material“ und Preisträger 2020 des Innovationspreises Bioökonomie des Landes Baden-Württemberg<br>
-Beides hochverdient - Gratulation!<br>
-									&#040;Siehe auch: <a href="https://www.biooekonomie-bw.de/fachbeitrag/aktuell/einem-kreislauf-oekopapier-energie-und-duenger-aus-silphie" target="_blank">Fachbeitrag der Bioökonomie BW</a>&#041;
+                                <h2>News from Hahnennest: 2 awards for packaging made from Silphium-fibers</h2>
+                                <p><strong>January 2021</strong><br><br>
+									A great success for our ECONOMIZER technology and the AGROWFIBER upgrade:
+OutNature GmbH, part of the Schwarz-Group &#040;Lidl, Kaufland&#041;, has recently won 2 renowned awards with their alternative food packaging made from Silphium-Fibers:<br>
+Winner of the German Packaging Award 2020 in the category &ldquo;New Material&rdquo; and Winner 2020 of the Innovation Award &ldquo;Bioeconomy&rdquo; of the Baden-Württemberg State &#040;Germany&#041;
+<br>
+Both well reserved – congratulations!<br>
+									&#040;See also: <a href="https://www.biooekonomie-bw.de/en/articles/news/one-cycle-ecopaper-energy-and-fertiliser-made-silphium-perfoliatum" target="_blank">Technical Article of Bioeconomy BW</a>&#041;
 								</p>
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
-                                <img src="/images/bilder-news/daumen-hoch.jpg" class="full" alt="">
+                                <img src="/images/bilder-news/hahnennest.jpg" class="full" alt="">
 
                             </div>
                         </div>
@@ -77,9 +79,9 @@ Beides hochverdient - Gratulation!<br>
 
 						<div class="row">
                             <div class="col-xl-7 col-xxl-6">
-                                <h2>6 Economizer SE 2.5-Linien für Europas größte Biogasanlage</h2>
-                                <p><strong>Jänner 2021</strong><br><br>
-									Die ukrainische Zuckerfabrik in Teofipol hat mit 16 MW elektrischer Leistung eine der größten landwirtschaftlichen Biogasanlagen Europas. Für die nächste Ausbaustufe auf 20 MW hat sich der Eigentümer für Stroh als Hauptsubstrat entschieden. Um diesen Schritt möglich zu machen, haben wir 6 Einheiten ECONOMIZER SE 2.5 geliefert und installiert. Die Stroh-Gas-Fabrik ist in inzwischen in Betrieb und beweist, wie morgen Biogas gemacht wird.
+                                <h2>6 ECONOMIZER SE 2.5 lines for Europe's largest biogas plant</h2>
+                                <p><strong>January 2021</strong><br><br>
+									The Ukrainian sugar mill in Teofipol runs a 16 MW electric power biogas plant – for sure one of the biggest agricultural AD plants in Europe. For their next expansion stage to 20 MW the owner decided to use his own residual crop straw as main feedstock. To make this possible we supplied 6 lines of ECONOMIZER SE 2.5 units. The straw-biogas-factory is in initial operation now, marking a new milestone for our mission.
 								</p>
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
@@ -97,10 +99,10 @@ Beides hochverdient - Gratulation!<br>
 
 						<div class="row">
                             <div class="col-xl-7 col-xxl-6">
-                                <h2>Zellstoff-Erzeugung aus Einjahres-Pflanzen / Energiepark Hahnennest</h2>
-                                <p><strong>Dezember 2020</strong><br><br>
-									Auf der 3MW-Biogasanlage im oberschwäbischen Hahnennest ist 2020 das wohl innovativste Biogas-Projekt der letzten Jahre realisiert worden: Aus Silage der „durchwachsenen Silphie“ wird mit unserer ECONOMIZER-Technologie und dem von uns entwickelten AGROWFIBER-Upgrade-Modul großtechnisch Zellstoff erzeugt: 50 % der Biomasse gehen nach der Aufbereitung als hochwertige Zellulose-Faser zur Papierfabrik Lenningen, 50 % werden als energiereiches Gärsubstrat bereit gestellt. Energie-autark, regional, ökologisch nachhaltig und Carbon-negativ: ein Projekt der Superlative, wegweisend für die Papierindustrie und die Biogasbranche.<br>
-									&#040;Siehe auch: Fachverband Biogas Deutschland, Biogas Journal 6_2020, Titelstory: Silphiefasern für Verpackungsmaterial&#041;
+                                <h2>Pulp production from annual plants / Energiepark Hahnennest &#040;Germany&#041;</h2>
+                                <p><strong>December 2020</strong><br><br>
+									The 3MW biogas plant in the south-east German village of Hahnennest is the venue of the most innovative biogas project of recent years: Silage produced from the north american Cup Plant &#040;silphium perfoliatum&#041; is processed in large scale with the ECONOMIZER technology and the AGROWFIBER upgrade we developped into pulp: 50 % of the biomass after processing is delivered to the german paper mill &ldquo;Lenningen&rdquo;, 50 % is an energy rich feedstock passed to the existing AD plant. Energy self-sufficient, regional added value, ecologically sustainable and carbon-negative: a project full of superlatives, groundbreaking for the pulp and paper industry as well as the biogas business.<br>
+									&#040;See also: Fachverband Biogas Deutschland, Biogas Journal 6_2020, Titelstory: Silphiefasern für Verpackungsmaterial&#041;
 								</p>
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">

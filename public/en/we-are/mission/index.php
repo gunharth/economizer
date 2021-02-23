@@ -20,9 +20,9 @@ $nav = "mission";
             <main class="container-lg">
                 <div class="row">
                     <div class="col-md-4 col-xxl-3">
-                        <h1><span class="orange forcelinebreak">Die</span> Mission</h1>
+                        <h1><span class="orange forcelinebreak">The</span> Mission</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Wir stehen für nachhaltig und wirtschaftlich erzeugte, erneuerbare Energie aus organischen Reststoffen.
+                            We stand for sustainable and ecological generation of renewable energy from organic residues.
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -33,11 +33,11 @@ $nav = "mission";
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
                                 <h2>ECONOMIZER SE</h2>
-                                <p>Unsere ECONOMIZER SE-Technologie verwandelt Stroh, Mist, Ernte- und Grünabfälle unter Einsatz von Wärme und Druck in hochwertige Substrate für Biogasanlagen.</p>
-                                <p>ECONOMIZER SE-Anlagen ermöglichen den Einsatz großer Mengen bislang ungenutzter Reststoffe anstatt teurer Energiepflanzen – bei vergleichbar hoher Biogasausbeute.</p>
-                                <p>Unsere ECONOMIZER SE-Anlagen amortisieren sich innerhalb weniger Jahre, und nehmen den Druck stetig steigender Substratpreise.</p>
-                                <p>Unsere Kunden machen ihre Biogasanlagen mit der ECONOMIZER SE-Technologie unabhängig, flexibel und zukunftssicher.</p>
-                                <p>Gemeinsam leisten wir einen bedeutenden Beitrag zum Klimaschutz, denn nachhaltig aus Stroh und Reststoffen gewonnenes Biogas ist ein wichtiger Baustein der Energiewende.</p>
+                                <p>Our ECONOMIZER SE technology uses heat and pressure to convert straw, manure, crop residues and green waste into high-quality feedstock for biogas plants.</p>
+                                <p>ECONOMIZER SE systems allow the utilisation of so far unused residual materials instead of expensive renewable energy crops – at comparably high biomethane yields.</p>
+                                <p>Our ECONOMIZER SE installations pay for themselves within a few years, easing the pressure of steadily rising feedstock costs.</p>
+                                <p>With the ECONOMIZER SE technology our clients' biogas plants are independent, flexible and future proof.</p>
+                                <p>Together we make an important contribution to climate protection: sustainable biogas generated from straw and residues is a real support to the energy transition process.</p>
 
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">

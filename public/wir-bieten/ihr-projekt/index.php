@@ -34,7 +34,7 @@ $nav = "ihr-projekt";
                             <div class="col-xl-8 col-xxl-6">
                                 <h2>Ihre Eckdaten …</h2>
 
-                                <p>Einen Dateienanhang würd ich wirklich nicht anbieten. Das könnte sicherheitstechnisch wirklich problematisch werden. Dieses Formular sollte ein Erstkontakt sein mit minimalen Grundinfos. Daraufhin wird zurückgeschrieben und weitere Details wie Dokumente mit Mail ausgetauscht</p>
+                                
 
                                 <form role="form" id="brochuresForm" name="brochuresForm" method="post">
                                     <p><span class="text-highlight">*</span> Erforderliche Felder</p>
@@ -50,13 +50,13 @@ $nav = "ihr-projekt";
                                         </select>
                                     </div>
                                     <div class="form-group">
-                                        <input type="text" class="form-control input-lg" name="Name" id="Name" placeholder="Mein Name*" required="">
+                                        <input type="text" class="form-control input-lg" name="Name" id="Name" placeholder="Name*" required="">
                                     </div>
                                     <div class="form-group">
                                         <input type="email" class="form-control input-lg" id="Email" name="Email" placeholder="eMail*" required="">
                                     </div>
                                     <div class="form-group">
-                                        <textarea name="Nachricht" id="Nachricht" class="form-control input-lg" rows="2" placeholder="Nachricht"></textarea>
+                                        <textarea name="Nachricht" id="Nachricht" class="form-control input-lg" rows="2" placeholder="Nachricht*" required=""></textarea>
                                     </div>
 
                                     <div class="row">
@@ -64,13 +64,13 @@ $nav = "ihr-projekt";
                                             <div class="form-check">
                                                 <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
                                                 <label class="form-check-label" for="flexCheckDefault">
-                                                    Ich habe die Datenschutzbestimmungen gelesen
+                                                    Ich habe die <a href="../../datenschutz/index.php" target="_blank">Datenschutzbestimmungen</a> gelesen.
                                                 </label>
                                             </div>
                                         </div>
                                         <div class="col-sm-2">
                                             <div class="form-group text-right">
-                                                <a id="submitBrochuresForm" href=""><img src="<?php echo $include_path; ?>svg-icons/mail-button.svg" class="icon-inline" alt="" style="height: 40px;"></a>
+                                                <a id="submitBrochuresForm" href=""><img src="<?php echo $include_path; ?>svg-icons/mail-button.svg" class="icon-inline" alt="" style="height: 60px;"></a>
                                             </div>
                                         </div>
                                     </div>

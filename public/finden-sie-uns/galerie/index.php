@@ -54,6 +54,16 @@ $nav = "galerie";
                                         </a>
 
                                     </div>
+									
+									<div class="row">
+
+                                        <!-- bilder  -->
+                                        <a href="/images/bilder-galerie/deutschland-hahnennest.jpg?image=254" data-footer="Energiepark Hahnennest, Deutschland" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+                                            <img src="/images/bilder-galerie/deutschland-hahnennest.jpg?image=254" class="img-fluid">
+                                        </a>
+                                       
+
+                                    </div>
 
                                 </div>
                             </div>

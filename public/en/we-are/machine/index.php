@@ -20,9 +20,9 @@ $nav = "maschine";
             <main class="container-lg">
                 <div class="row">
                     <div class="col-md-4 col-xxl-3">
-                        <h1><span class="orange forcelinebreak">Die</span> Maschine</h1>
+                        <h1><span class="orange forcelinebreak">The</span> Machine</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Die ECONOMIZER-Technologie ist einzigartig und international patentiert.
+                            The ECONOMIZER technology is<br>unique and internationally<br>patented.
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -32,17 +32,17 @@ $nav = "maschine";
 
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
-                                <h2>Unsere Serienmaschine</h2>
-                                <p>Die ECONOMIZER SE gibt es als Serienmaschine in der Baugröße 2.5:</p>
+                                <h2>Our series machine</h2>
+                                <p>The ECONOMIZER SE currently is available in the size 2.5:</p>
                                 <hr />
-                                <p><strong>Verarbeitungskapazität:</strong> 6.000 Tonnen Trockensubstanz pro Jahr<br />
-                                    <strong>Energiebedarf:</strong> 25 kW Strom – 275 kW Wärme permanent<br />
-                                    <strong>Baugröße:</strong> Länge 14 m – Breite 3 m – Höhe 8 m</p>
+                                <p><strong>Processing capacity:</strong> 6,000 tons of dry matter per year<br />
+                                    <strong>Energy consumption:</strong> 25 kW electricity and 275 kW caloric power – permanent<br />
+                                    <strong>Size:</strong> length 14 m – width 3 m – height 8 m</p>
                                 <hr />
-                                <p>Für größere Anlagen werden mehrere ECONOMIZER SE 2.5 parallel installiert.</p>
-                                <p>Unsere ECONOMIZER SE-Anlagen sind standardisiert und modular aufgebaut. Das ermöglicht uns eine Qualitätssicherung auf höchstem Niveau. Nach der Werksabnahme erfolgt der Transport und Aufbau der Containermodule innerhalb weniger Tage.</p>
-                                <p>Neben der Robustheit und Zuverlässigkeit des Verfahrens steht vor allem die Wirtschaftlichkeit im Fokus. Wir setzen in der ECONOMIZER SE auf hochwertige Werkstoffe und Komponenten, denn nur eine hohe Verfügbarkeit stellt hohe Erträge sicher.</p>
-                                <p>Die ECONOMIZER-Technologie ist international patentrechtlich geschützt (Patente Nr. EP 1 177 280 und EP 2 567 757).</p>
+                                <p>For bigger installations parallel configurations of more ECONOMIZER SE 2.5 units are possible.</p>
+                                <p>The construction of our ECONOMIZER SE systems is modular and standardised. This allows quality control on highest level. After the Factory Acceptance Test shipping and final erection on site take place within a few days.</p>
+                                <p>Robustness and reliabilty of the process are key issues to achieve a high profitability. Therefore the ECONOMIZER machine is built from high quality materials and components, because only a high availability guarantees high economic yields.</p>
+                                <p>The ECONOMIZER technology is protected by international patents (Patents No. EP 1 177 280 and EP 2 567 757).</p>
 
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">

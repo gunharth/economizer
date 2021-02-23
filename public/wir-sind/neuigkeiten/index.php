@@ -55,7 +55,7 @@ $nav = "mission";
                         <div class="row">
                             <div class="col-xl-7 col-xxl-6">
                                 <h2>Neues aus dem Hahnennest: 2 Preise für Verpackungen aus Silphie-Fasern</h2>
-                                <p><strong>Jänner 2021</strong><br><br>
+                                <p><strong>Januar 2021</strong><br><br>
 									Ein großer Erfolg für unsere ECONOMIZER-Technologie und das AGROWFIBER-Upgrade: Die Outnature GmbH, Teil der Schwarz-Gruppe (Lidl, Kaufland), hat mit alternativen Lebensmittel-Verpackungen aus Silphiefasern zwei renommierte Preise abgeräumt:<br>
 Gewinner des Deutschen Verpackungspreises 2020 in der Kategorie „neues Material“ und Preisträger 2020 des Innovationspreises Bioökonomie des Landes Baden-Württemberg<br>
 Beides hochverdient - Gratulation!<br>
@@ -64,7 +64,7 @@ Beides hochverdient - Gratulation!<br>
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
 
-                                <img src="/images/bilder-news/daumen-hoch.jpg" class="full" alt="">
+                                <img src="/images/bilder-news/hahnennest.jpg" class="full" alt="">
 
                             </div>
                         </div>
@@ -78,7 +78,7 @@ Beides hochverdient - Gratulation!<br>
 						<div class="row">
                             <div class="col-xl-7 col-xxl-6">
                                 <h2>6 Economizer SE 2.5-Linien für Europas größte Biogasanlage</h2>
-                                <p><strong>Jänner 2021</strong><br><br>
+                                <p><strong>Januar 2021</strong><br><br>
 									Die ukrainische Zuckerfabrik in Teofipol hat mit 16 MW elektrischer Leistung eine der größten landwirtschaftlichen Biogasanlagen Europas. Für die nächste Ausbaustufe auf 20 MW hat sich der Eigentümer für Stroh als Hauptsubstrat entschieden. Um diesen Schritt möglich zu machen, haben wir 6 Einheiten ECONOMIZER SE 2.5 geliefert und installiert. Die Stroh-Gas-Fabrik ist in inzwischen in Betrieb und beweist, wie morgen Biogas gemacht wird.
 								</p>
                             </div>

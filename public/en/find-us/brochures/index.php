@@ -20,9 +20,9 @@ $nav = "brochures";
             <main class="container-lg">
                 <div class="row">
                     <div class="col-md-4 col-xxl-3">
-                        <h1><span class="orange forcelinebreak">Die</span> Broschüren</h1>
+                        <h1><span class="orange forcelinebreak">The</span> Brochures</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Gebündelte Informationen –<br> zum Lesen und <br> Herzeigen.
+                            Comprehensive information –<br> for reading and <br> displaying.
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -32,9 +32,9 @@ $nav = "brochures";
 
                         <div class="row">
                             <div class="col-xl-8 col-xxl-6">
-                                <h2>Unser Service</h2>
-                                <p>Als Service bieten wir Ihnen hier die Möglichkeit, sich unsere Infobroschüren über den ECONOMIZER SE in verschiedenen Sprachen kostenlos herunterzuladen.</p>
-                                <p>Registrieren Sie sich dazu bitte hier. Die Downloadlinks werden im Anschluss sofort freigeschaltet.</p>
+                                <h2>Our Services</h2>
+                                <p>Here you can download our ECONOMIZER SE brochures and other interesting reading materials.</p>
+                                <p>Please register. The download links will be activated immediately.</p>
                                 <p><strong>(Dann Formular und Downloadbereich wie Originallayout bitte.)</strong></p>
 
                                 <form role="form" id="downloadForm" name="downloadForm" method="post" enctype="multipart/form-data">

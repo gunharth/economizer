@@ -20,9 +20,9 @@ $nav = "challenge";
             <main class="container-lg">
                 <div class="row">
                     <div class="col-md-4 col-xl-3 col-xxl-3">
-                        <h1><span class="orange forcelinebreak">Die</span> Aufgabe</h1>
+                        <h1><span class="orange forcelinebreak">The</span> Challenge</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Wir haben <br>die beste Lösung <br>für den Lignozellulose- Komplex.
+                            We have <br>the best solution <br>for the Lignocellulose-Complex.
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -32,12 +32,12 @@ $nav = "challenge";
 
                         <div class="row">
                             <div class="col-xl-7 col-xxl-6">
-                                <h2>Der Lignozellulose-Komplex</h2>
-                                <p>Stroh, Mist, Grünschnitt und Ernteabfälle, die von uns eingesetzten Reststoff-Substrate, haben alle eines gemeinsam: den Lignozellulose-Komplex.</p>
-                                <p>Das bedeutet, diese Substrate bestehen zu großen Teilen aus einem verholzten Verbund von Zellulose- und Hemizellulose, ummantelt mit Lignin. Dieser Komplex ist zwar äußerst energiereich – aber für Biogasbakterien leider nahezu unverdaulich.</p>
-                                <p>Ohne die passende Vorbehandlung kommt die Biogasanlage nicht an die Energie ran, und die Substrate verlassen den Fermenter wieder, ohne dass daraus Biogas produziert wurde.</p>
-                                <p>Dazu kommen noch Betriebsprobleme durch Schwimm- und Sinkschichten aus unverdautem Material.</p>
-                                <p>Für diese Aufgabe haben wir die beste Lösung.</p>
+                                <h2>The Lignocellulose-Complex</h2>
+                                <p>Straw, manure, green waste and crop residues – all the alternative kinds of feedstock we utilise have one thing in common: the Lignocellulose-Complex.</p>
+                                <p>This means these materials in great parts consist of an incrustinated composite of cristalline cellulose and hemicellulose, coated by lignin. This complex is extremely rich in energy, but almost indigestible for biogas bacteria.</p>
+                                <p>Without suitable pre-treatment a biogas plant can't get hold of the energy potential, and the substrates leave the fermenter before they have been turned into biogas.</p>
+                                <p>And in addition you have to fight operational problems like floating layers and sediments building up from undigested feedstock.</p>
+                                <p>For this challenge we offer the best solution.</p>
 
                             </div>
                             <div class="col-xl-5 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
