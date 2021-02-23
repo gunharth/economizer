@@ -14,3 +14,4 @@ yarn-error.log
 .env
 .DS_Store
 public_2302
+public/mailhandler/smtp_secrets.php
