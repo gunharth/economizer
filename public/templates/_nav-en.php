@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-xl navbar-dark fixed-top">
-    <a class="navbar-brand" href="/"><img src="/assets/images/Logo-Economizer.svg" alt=""></a>
+    <a class="navbar-brand" href="/en"><img src="/assets/images/Logo-Economizer.svg" alt=""></a>
     <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>

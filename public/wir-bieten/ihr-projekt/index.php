@@ -34,9 +34,8 @@ $nav = "ihr-projekt";
                             <div class="col-xl-8 col-xxl-6">
                                 <h2>Ihre Eckdaten …</h2>
 
-                                
-
-                                <form role="form" id="brochuresForm" name="brochuresForm" method="post">
+                                <form role="form" id="projectForm" name="projectForm" method="post" style="position: relative">
+                                    <div id="sendProgress"></div>
                                     <p><span class="text-highlight">*</span> Erforderliche Felder</p>
                                     <div class="form-group">
                                         <select class="form-control input-lg" id="Auswahl" name="Auswahl">
@@ -62,19 +61,24 @@ $nav = "ihr-projekt";
                                     <div class="row">
                                         <div class="col-sm-10">
                                             <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                                                <label class="form-check-label" for="flexCheckDefault">
-                                                    Ich habe die <a href="../../datenschutz/index.php" target="_blank">Datenschutzbestimmungen</a> gelesen.
-                                                </label>
+                                                <p>
+                                                    <input class="form-check-input" type="checkbox" value="Yes" id="Agree" name="Agree">
+                                                    <label class="form-check-label" for="flexCheckDefault">
+                                                        Ich habe die <a href="../../datenschutz" target="_blank">Datenschutzbestimmungen</a> gelesen.
+                                                    </label>
+                                                </p>
                                             </div>
                                         </div>
                                         <div class="col-sm-2">
                                             <div class="form-group text-right">
-                                                <a id="submitBrochuresForm" href=""><img src="<?php echo $include_path; ?>svg-icons/mail-button.svg" class="icon-inline" alt="" style="height: 60px;"></a>
+                                                <a id="submitProjectForm" href=""><img src="<?php echo $include_path; ?>svg-icons/mail-button.svg" class="icon-inline" alt="" style="height: 60px;"></a>
                                             </div>
                                         </div>
                                     </div>
+                                    <input type="hidden" name="form" value="project">
+                                    <input type="hidden" name="language" value="<?php echo $lang; ?>">
                                 </form>
+                                <div id="projectArea"></div>
 
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
@@ -95,6 +99,59 @@ $nav = "ihr-projekt";
             ?>
         </div>
     </div>
+
+    <script>
+        var projectFormOptions = {
+            beforeSubmit: validate,
+            type: 'POST',
+            url: '/mailhandler/index.php',
+            target: '#projectArea',
+            success: function() {
+                $('#projectForm').slideUp()
+            }
+        };
+
+        function validate(formData, jqForm, options) {
+            var form = jqForm[0];
+            console.log(form)
+            var message = 'Bitte füllen Sie folgende Felder aus: \n';
+            var fields = '';
+            if (!form.Name.value) {
+                fields += 'Name\n';
+            }
+            // if (!form.Adresse.value) {
+            //     fields += 'Adresse\n';
+            // }
+            var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+            var address = form.Email.value;
+            if (reg.test(address) == false) {
+                fields += 'E-Mail\n';
+            }
+            if (!form.Nachricht.value) {
+                fields += 'Nachricht\n';
+            }
+            if (!$('#Agree').prop('checked')) {
+                fields += 'Datenschutzbestimmung\n';
+            }
+            if (fields != '') {
+                alert(message + fields);
+                return false;
+            }
+            $('#sendProgress').show();
+        }
+
+        $(function() {
+
+            $('#projectForm').ajaxForm(projectFormOptions);
+
+            $('#submitProjectForm').on('click', function(e) {
+                e.preventDefault();
+                $('#projectForm').ajaxSubmit(projectFormOptions);
+            });
+
+        });
+    </script>
+
 </body>
 
 </html>

@@ -8,6 +8,14 @@ if (!isset($_SERVER['HTTP_X_REQUESTED_WITH']) && ($_SERVER['HTTP_X_REQUESTED_WIT
     die("An error has occured - please try again");
 }
 
+if(!isset($_POST['form']) || $_POST['form'] == "" || !isset($_POST['language']) || $_POST['language'] == "") {
+    die("An error has occured - please try again");
+}
+
+$form = $_POST['form'];
+$lang = $_POST['language'];
+
+include($form.'_'.$lang.'.php');
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
@@ -25,27 +33,21 @@ try {
     include_once('smtp_secrets.php');
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; // Enable TLS encryption
     $mail->Port = 587; // TCP port to connect to
+    $mail->CharSet = "UTF-8";
 
     //Recipients
-    $mail->setFrom('s.sporn@bit-pool.com', 'Mailer');
-    $mail->addReplyTo('s.sporn@bit-pool.com', 'Information');
-    $mail->addAddress('hello@gunharth.io', 'Joe User');     // Add a recipient
-
-    // $mail->addCC('cc@example.com');
-    // $mail->addBCC('bcc@example.com');
-
-    // Attachments
-    // $mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
-    // $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
+    $mail->setFrom('office@agres.systems', 'Agres Systems');
+    $mail->addReplyTo('office@agres.systems', 'Agres Systems');
+    $mail->addAddress('hello@gunharth.io');
 
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
-    $mail->Subject = 'Here is the subject';
-    $mail->Body    = 'This is the HTML message body <b>in bold!</b>';
-    $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
+    $mail->Subject = $subject;
+    $mail->Body    = $body;
+    //$mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
     $mail->send();
-    echo 'Message has been sent';
+    echo $success;
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 }

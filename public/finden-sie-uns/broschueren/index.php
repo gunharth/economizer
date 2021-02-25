@@ -13,7 +13,7 @@ $nav = "brochueren";
 
     <div id="wrapper">
         <div id="wrapper-content">
-            <?php include($include_path . 'templates/_nav-'.$lang.'.php'); ?>
+            <?php include($include_path . 'templates/_nav-' . $lang . '.php'); ?>
             <div id="schleife"></div>
 
             <div class="header-image" style="background:url(/images/<?php echo $main_image; ?>) no-repeat center center; background-size:cover;"></div>
@@ -37,7 +37,8 @@ $nav = "brochueren";
                                 <p>Als Service bieten wir Ihnen hier die Möglichkeit, sich unsere Infobroschüren über den ECONOMIZER SE in verschiedenen Sprachen kostenlos herunterzuladen.</p>
                                 <p>Registrieren Sie sich dazu bitte hier. Die Downloadlinks werden im Anschluss sofort freigeschaltet.</p>
 
-                                <form role="form" id="brochuresForm" name="brochuresForm" method="post">
+                                <form role="form" id="brochuresForm" name="brochuresForm" method="post" style="position: relative">
+                                    <div id="sendProgress"></div>
                                     <p><span class="text-highlight">*</span> Erforderliche Felder</p>
                                     <div class="form-group">
                                         <input type="text" class="form-control input-lg" name="Name" id="Name" placeholder="Name*" required="">
@@ -68,41 +69,41 @@ $nav = "brochueren";
                                     <div class="row">
                                         <div class="col-sm-10">
                                             <div class="form-check">
-                                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                                                <label class="form-check-label" for="flexCheckDefault">
-                                                    Ich habe die <a href="../../datenschutz/index.php" target="_blank">Datenschutzbestimmungen</a> gelesen.
-                                                </label>
+                                                <p>
+                                                    <input class="form-check-input" type="checkbox" value="Yes" id="Agree" name="Agree">
+                                                    <label class="form-check-label" for="flexCheckDefault">
+                                                        Ich habe die <a href="../../datenschutz" target="_blank">Datenschutzbestimmungen</a> gelesen.
+                                                    </label>
+                                                </p>
                                             </div>
                                         </div>
                                         <div class="col-sm-2">
                                             <div class="form-group text-right">
-                                                <a id="submitBrochuresForm" href=""><img src="<?php echo $include_path;?>svg-icons/mail-button.svg" class="icon-inline" alt="" style="height: 60px;"></a>
+                                                <a id="submitBrochuresForm" href=""><img src="<?php echo $include_path; ?>svg-icons/mail-button.svg" class="icon-inline" alt="" style="height: 60px;"></a>
                                             </div>
                                         </div>
                                     </div>
+                                    <input type="hidden" name="form" value="brochures">
+                                    <input type="hidden" name="language" value="<?php echo $lang; ?>">
                                 </form>
 
-
                                 <h2>Unser Downloadbereich</h2>
-                                
+
                                 <div id="brochuresArea">
                                     <p>
-                                        <img src="<?php echo $include_path;?>svg-icons/pdf-icon-grau.svg" alt="" class="icon-inline" style="height: 38px;">
+                                        <img src="<?php echo $include_path; ?>svg-icons/pdf-icon-grau.svg" alt="" class="icon-inline" style="height: 38px;">
                                         Infobroschüre deutsch
                                     </p>
-									
-									<p>
-                                        <img src="<?php echo $include_path;?>svg-icons/pdf-icon-grau.svg" alt="" class="icon-inline" style="height: 38px;">
+
+                                    <p>
+                                        <img src="<?php echo $include_path; ?>svg-icons/pdf-icon-grau.svg" alt="" class="icon-inline" style="height: 38px;">
                                         Infobroschüre englisch
                                     </p>
                                 </div>
 
-
                             </div>
                             <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
-
                                 <img src="/images/economizer-4-3.png" alt="" class="full">
-
                             </div>
 
 
@@ -113,48 +114,52 @@ $nav = "brochueren";
             </main>
 
             <?php
-            include($include_path . 'templates/_footer-'.$lang.'.php');
+            include($include_path . 'templates/_footer-' . $lang . '.php');
             include($include_path . 'templates/_scripts.php');
             ?>
         </div>
     </div>
+
     <script>
-        // Options for checkout page
         var brochureFormOptions = {
-            //beforeSubmit: validate,
-            //dataType:  'json',
+            beforeSubmit: validate,
             type: 'POST',
-            url: '/mailhandler/brochures.php',
-            target: '#brochuresArea'
+            url: '/mailhandler/index.php',
+            target: '#brochuresArea',
+            success: function() {
+                $('#brochuresForm').slideUp()
+            }
         };
 
         function validate(formData, jqForm, options) {
             var form = jqForm[0];
+            console.log(form)
             var message = 'Bitte füllen Sie folgende Felder aus: \n';
             var fields = '';
             if (!form.Name.value) {
                 fields += 'Name\n';
             }
-            if (!form.Adresse.value) {
-                fields += 'Adresse\n';
-            }
+            // if (!form.Adresse.value) {
+            //     fields += 'Adresse\n';
+            // }
             var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
             var address = form.Email.value;
             if (reg.test(address) == false) {
                 fields += 'E-Mail\n';
             }
+            if (!$('#Agree').prop('checked')) {
+                fields += 'Datenschutzbestimmung\n';
+            }
             if (fields != '') {
                 alert(message + fields);
                 return false;
             }
+            $('#sendProgress').show();
         }
 
         $(function() {
 
-            //$('#brochuresForm').on(function() {
             $('#brochuresForm').ajaxForm(brochureFormOptions);
-            //     return false;
-            // });
 
             $('#submitBrochuresForm').on('click', function(e) {
                 e.preventDefault();
