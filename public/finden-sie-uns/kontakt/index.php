@@ -35,7 +35,10 @@ $nav = "kontakt";
                                 <h2>AGRES SYSTEMS GmbH</h2>
                                 <p><img src="<?php echo $include_path; ?>svg-icons/telefon-icon.svg" alt="" class="icon-inline" style="height: 31px;"> +43 676 5745829</p>
                                 <hr />
-                                <p><img src="<?php echo $include_path; ?>svg-icons/adresse-icon.svg" alt="" class="icon-inline" style="height: 31px;"> Gewerbestr. 2 / 5201 Seekirchen / Österreich</p>
+                                <p class="d-flex align-items-center">
+                                    <img src="<?php echo $include_path; ?>svg-icons/adresse-icon.svg" alt="" class="icon-inline" style="height: 31px;">
+                                    <span class="ml-1">Gewerbestr. 2 / 5201 Seekirchen / Österreich</span>
+                                </p>
 
                                 <form role="form" id="contactForm" name="contactForm" method="post" style="position: relative">
                                     <div id="sendProgress"></div>

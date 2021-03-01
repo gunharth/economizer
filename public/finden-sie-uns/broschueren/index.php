@@ -35,9 +35,11 @@ $nav = "brochueren";
                             <div class="col-xl-8 col-xxl-6">
                                 <h2>Unser Service</h2>
                                 <p>Als Service bieten wir Ihnen hier die Möglichkeit, sich unsere Infobroschüren über den ECONOMIZER SE in verschiedenen Sprachen kostenlos herunterzuladen.</p>
-                                <p>Registrieren Sie sich dazu bitte hier. Die Downloadlinks werden im Anschluss sofort freigeschaltet.</p>
 
                                 <form role="form" id="brochuresForm" name="brochuresForm" method="post" style="position: relative">
+
+                                    <p>Registrieren Sie sich dazu bitte hier. Die Downloadlinks werden im Anschluss sofort freigeschaltet.</p>
+
                                     <div id="sendProgress"></div>
                                     <p><span class="text-highlight">*</span> Erforderliche Felder</p>
                                     <div class="form-group">

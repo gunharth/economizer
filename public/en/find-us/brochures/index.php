@@ -34,9 +34,12 @@ $nav = "brochures";
                             <div class="col-xl-8 col-xxl-6">
                                 <h2>Our Services</h2>
                                 <p>Here you can download our ECONOMIZER SE brochures and other interesting reading materials.</p>
-                                <p>Please register. The download links will be activated immediately.</p>
 
                                 <form role="form" id="brochuresForm" name="brochuresForm" method="post">
+
+                                    <p>Please register. The download links will be activated immediately.</p>
+
+                                    <div id="sendProgress"></div>
                                     <p><span class="text-highlight">*</span> Required Fields</p>
                                     <div class="form-group">
                                         <input type="text" class="form-control input-lg" name="Name" id="Name" placeholder="Name*" required="">

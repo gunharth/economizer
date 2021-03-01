@@ -38,7 +38,7 @@ try {
     //Recipients
     $mail->setFrom('office@agres.systems', 'Agres Systems');
     $mail->addReplyTo('office@agres.systems', 'Agres Systems');
-    $mail->addAddress('hello@gunharth.io');
+    $mail->addAddress('s.sporn@bit-pool.com');
 
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
