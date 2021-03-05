@@ -48,7 +48,7 @@ $nav = "brochures";
                                         <input type="text" class="form-control input-lg" name="Firma" id="Firma" placeholder="Company">
                                     </div>
                                     <div class="form-group">
-                                        <textarea name="Adresse" id="Adresse" class="form-control input-lg" rows="2" placeholder="Addresse"></textarea>
+                                        <textarea name="Adresse" id="Adresse" class="form-control input-lg" rows="2" placeholder="Address"></textarea>
                                     </div>
                                     <div class="form-group">
                                         <input type="text" class="form-control input-lg" name="Telefon" id="Telefon" placeholder="Phone">
@@ -73,7 +73,7 @@ $nav = "brochures";
                                                 <p>
                                                     <input class="form-check-input" type="checkbox" value="Yes" id="Agree" name="Agree">
                                                     <label class="form-check-label" for="flexCheckDefault">
-                                                        I accept the <a href="../../disclaimer" target="_blank">Disclaimer</a>.
+                                                        I agree to the <a href="../../disclaimer" target="_blank">Disclaimer</a>.
                                                     </label>
                                                 </p>
                                             </div>

@@ -121,7 +121,7 @@ $nav = "referenzen";
                                                         <tbody>
                                                             <tr>
                                                                 <td><strong>Kunde:</strong></td>
-                                                                <td colspan="2">Outnature GmbH<br>Energiepark Hahnennest</td>
+                                                                <td colspan="2">Outnature GmbH<br>Energiepark Hahnennest, Deutschland</td>
                                                             </tr>
                                                             <tr>
                                                                 <td><strong>Anlage:</strong></td>

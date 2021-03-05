@@ -47,7 +47,7 @@ $nav = "kontakt";
                                         <input type="text" class="form-control input-lg" name="Name" id="Name" placeholder="Name*" required="">
                                     </div>
                                     <div class="form-group">
-                                        <input type="text" class="form-control input-lg" name="Email" id="Email" placeholder="Email*">
+                                        <input type="text" class="form-control input-lg" name="Email" id="Email" placeholder="eMail*">
                                     </div>
                                     <div class="form-group">
                                         <textarea name="Nachricht" id="Nachricht" class="form-control input-lg" rows="2" placeholder="Nachricht*"></textarea>

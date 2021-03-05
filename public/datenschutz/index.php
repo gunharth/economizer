@@ -56,7 +56,7 @@ $nav = "";
 Folgende Daten werden von uns bei einem Besuch unserer Webseite erhoben:
 <ul>
 <li>IP-Adresse</li>
-<li>Datum und Uhrzeit der Anfrage
+<li>Datum und Uhrzeit der Anfrage</li>
 <li>Zeitzonendifferenz zur Greenwich Mean Time (GMT)</li>
 <li>Inhalt der Anforderung (konkrete Seite)</li>
 <li>Zugriffsstatus/HTTP-Statuscode</li>

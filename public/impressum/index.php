@@ -54,7 +54,7 @@ $nav = "";
 								Externe Bildnachweise:<br>
 								Wir sind - Die Firma: (Portrait- und Gruppenfoto) © Raggio Dorato Photography<br>
 								Wir bieten - Unsere Kunden: Harvested oil palm fruits with workers in background © t4nkyong / Adobe Stock Bilder, LKW lädt Container mit Grünschnitt auf dem Wertstoffhof auf © Kzenon / Adobe Stock Bilder<br>
-								Wir bieten - Die Broschüren (Deckblatt Broschüren) / Impressum / Datenschutz: © Matthis Dierkes / photocase.de<br>
+								Finden Sie uns - Die Broschüren (Deckblatt Broschüren) / Impressum / Datenschutz: © Matthis Dierkes / photocase.de<br>
 								Weitere: pixabay.com, unsplash.com</p>
 								<hr />
                                 <p><strong>Webdesign</strong> <a href="https://www.bit-pool.com/" target="_blank">www.bit-pool.com</a> / Silke Sporn</p>

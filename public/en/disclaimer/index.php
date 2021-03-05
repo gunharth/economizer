@@ -20,9 +20,9 @@ $nav = "";
             <main class="container-lg">
                 <div class="row">
                     <div class="col-md-4 col-xxl-3">
-                        <h1><span class="orange forcelinebreak">Der</span> Datenschutz</h1>
+                        <h1><span class="orange forcelinebreak">The</span> Disclaimer</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Selbstverständlich schützen wir<br>Ihre Daten gemäß der<br>EU-Datenschutz-Grundverordnung.
+                            Of course we protect your data <br>according to the EC’s <br>General Data Protection Regulation.
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -32,106 +32,104 @@ $nav = "";
 
                         <div class="row">
                             <div class="col-xl-12">
-                                <h2>Datenschutz</h2>
-								<p>An dieser Stelle informieren wir Sie über die Erhebung personenbezogener Daten, allgemein und im speziellen bei der Nutzung unserer Webseite. Personenbezogene Daten sind alle Daten, die sich auf Sie persönlich beziehen, wie beispielsweise Name, Anschrift, Telefonnummer, Geburtsdatum, eMail-Adresse, Nutzerverhalten, etc.
+                                <h2>DATA PROTECTION</h2>
+								<p>Hereby we inform you of the collection of personal information/data, in general, and specifically when using this website. Personal information/data includes all data, which you specify about your person, such as name, address, phone number, birth date, eMail address, user behavior, etc.
 								<br><br>
-								Wir verarbeiten Ihre Daten ausschließlich auf der Grundlage der gesetzlichen Bestimmungen: Datenschutz-Grundverordnung (DSGVO) und Datenschutzgesetz in der Fassung des Datenschutzgesetz-Anpassungsgesetzes, BGBl. I Nr. 120/2017).
+								We process your data solely according to the statutory provisions: General Data Protection Regulation (GDPR) and Data Protection Law as the revised form of the Data Protection Law - Amendment Act, BGBl. (Federal Law Gazette) I No. 120/2017). 
 								<br><br>
-								Der Schutz Ihrer persönlichen Daten ist uns sehr wichtig.</p>
+								The protection of your personal data is of utmost importance to us.</p>
                                 <hr />
 
-								<p><strong>Erhebung und Verwendung personenbezogener Daten</strong>
+								<p><strong>COLLECTION AND UTILISATION OF PERSONAL DATA</strong>
 								<br><br>
-								Bei der Kontaktaufnahme mit uns per eMail, über unser Kontaktformular oder persönlich werden die von Ihnen freiwillig angegebenen Daten (Ihre eMail-Adresse, gegebenenfalls Ihr Name, Ihre Anschrift und Ihre Telefonnummer) von uns gespeichert, um Ihre Anfrage zu beantworten.
+								When contact is made via eMail, our contact form or personal, the data you willingly give (Your eMail address, possibly your name, your address, and phone number) will be saved in order to respond to your inquiry.
 								<br><br>
-								Neben der Nutzung unserer Webseite bieten wir zusätzlich verschiedene Leistungen an. Zur Erbringung dieser jeweiligen Leistungen müssen Sie uns in der Regel weitere personenbezogene Daten angeben.
+								Additionally to our website we offer various further services. In order to perform these services, you are usually required to provide further personal data.
 								<br><br>
-								Die in diesem Zusammenhang von Ihnen bekanntgegebenen Daten löschen wir, nachdem die Speicherung nicht mehr erforderlich ist, oder schränken die Verarbeitung ein, sofern gesetzliche Aufbewahrungspflichten bestehen. Nach Ablauf der gesetzlichen Aufbewahrungspflichten werden Ihre Daten gelöscht, sofern Sie nicht ausdrücklich in eine weitere Nutzung eingewilligt haben oder keine rechtliche Grundlage mehr zur weiteren Verarbeitung Ihrer Daten besteht.</p>
+								The data provided by you in this context will be deleted by us after the saved data is no longer of necessity, or the processing will be restricted if there is a legal obligation to retain data. When the legal obligation to retain data expires, your personal data will be deleted, provided you have not explicitly agreed to any further use or no legal base for the further processing of your data is given.</p>
                                 <hr />
 
-								<p><strong>Datenerhebung bei Besuch unserer Website</strong>
+								<p><strong>DATA COLLECTION DURING YOUR VISIT TO OUR WEBSITE</strong>
 								<br><br>
-								Bei einem einfachen Besuch unserer Webseite - also wenn Sie kein Kontaktformular ausfüllen oder uns anderweitig Informationen übermitteln - erheben wir lediglich die Daten, die Ihr Browser an unseren Server übermittelt. Es werden von uns nur jene Daten erhoben, die für uns technisch erforderlich sind, um Ihnen unsere Webseite anzuzeigen und um die Stabilität und Sicherheit unserer Webseite zu gewährleisten. Die Rechtsgrundlage dafür stellt Art 6 Abs 1 lit f DSGVO dar.
+								During a simple visit to our website – meaning when you do not fill out a contact form, or relay information to us in another way – we only gather the data your browser transmits to our servers. Only data, which is technologically necessary for us, to be able to display the website to you and ensure the stability and safety of our website, will be collected. The legal basis for this is given within Art. 6 para. 1 letter f GDPR.
 								<br><br>
-Folgende Daten werden von uns bei einem Besuch unserer Webseite erhoben:
+The following data is gathered during a visit to our website:
 <ul>
-<li>IP-Adresse</li>
-<li>Datum und Uhrzeit der Anfrage
-<li>Zeitzonendifferenz zur Greenwich Mean Time (GMT)</li>
-<li>Inhalt der Anforderung (konkrete Seite)</li>
-<li>Zugriffsstatus/HTTP-Statuscode</li>
-<li>jeweils übertragene Datenmenge</li>
-<li>Webseite, von der die Anforderung kommt</li>
+<li>IP-address</li>
+<li>Date and time of the request</li>
+<li>Time zone difference to Greenwich Mean Time (GMT)</li>
+<li>Content of the request (concrete page)</li>
+<li>Access status/ HTTP status code</li>
+<li>The amount of data transmitted respectively</li>
+<li>Website, from which the request is made</li>
 <li>Browser</li>
-<li>Betriebssystem und dessen Oberfläche</li>
-<li>Sprache und Version der Browsersoftware</li>
+<li>Operating system and its surface</li>
+<li>Language and version of the browser software</li>
 										</ul></p>
                                 <hr />
 
-							<p><strong>Verwendung von Cookies</strong>
+							<p><strong>USE OF COOKIES</strong>
 								<br><br>
-								Zusätzlich zu den oben genannten Daten werden durch die Nutzung unserer Webseite Cookies auf Ihrem Rechner gespeichert, wobei ausschließlich Cookies gesetzt werden, die unbedingt erforderlich sind. Cookies sind kleine Textdateien, die auf Ihrer Festplatte gespeichert werden, um den Besuch unserer Webseite für Sie attraktiv zu gestalten und Ihnen die optimale Nutzung bestimmter angebotener Funktionen und Services zu ermöglichen. Cookies können keine Programme ausführen oder Viren auf Ihren Computer übertragen. Sie dienen insbesondere dazu, unser Internetangebot insgesamt benutzerfreundlicher und effektiver zu machen.
+								In addition to the data mentioned above, cookies will be saved on your computer due to the use of our website, but only cookies that are necessary will be set. Cookies are small text files, which are saved on your hard drive, in order to design your visit on our website attractively for you and to facilitate the optimal use of certain offered functions and services. Cookies neither run programs nor transmit viruses onto your computer. They particularly serve to make our internet offering more user-friendly and more effective.
 <br><br>
-Unsere Webseite nutzt Session Cookies und Persistente Cookies. Diese Begriffe werden im folgenden erläutert:
+Our Website uses session cookies and persistent cookies. These terms will be explained here:
 <br><br>
-Session Cookies werden automatisiert gelöscht, wenn Sie Ihren Browser schließen.
-Diese Cookies speichern eine sogenannte Session-ID, mit welcher sich verschiedene Anfragen Ihres Browsers einer gemeinsamen Sitzung zuordnen lassen. Session-Cookies werden gelöscht, wenn Sie sich ausloggen oder Ihren Browser schließen.
+Session cookies are automatically deleted when you close your browser. These cookies save the so-called session-ID, with which different requests of your browser within a whole session can be assigned. Session cookies will be deleted when you either log out or close your browser.
 <br><br>
-Persistente Cookies werden nach einer vorgegebenen Dauer, die sich je nach Cookie unterscheiden kann, automatisiert gelöscht.
-Diese Cookies erinnern unseren Browser an Ihre bevorzugten Inhalte und Einstellungen, wenn Sie unsere Webseite erneut besuchen. Die Dauer der Speicherung finden Sie in der Übersicht in den Cookie-Einstellungen Ihres Browsers. Sie können zudem in den Sicherheitseinstellungen Ihres Browsers diese Cookies jederzeit löschen.
+Persistent cookies are automatically deleted after a fixed time, which can vary depending on the cookie. These cookies remind our browser of your preferred contents and settings if you visit our website again. The saving duration can be found in the overview in the cookie settings of your browser. Additionally, you can delete the cookies in the safety settings of your browser at any time.
 <br><br>
-Es ist möglich, Ihre Browser-Einstellung so zu konfigurieren, dass beispielsweise die Annahme von Cookies abgelehnt wird. Falls Sie wissen möchten, wie Sie diese Schritte setzen können, benützen Sie bitte die Hilfe-Funktion in Ihrem Browser.
+It is possible to configure your browser settings, for example, to decline the receiving of cookies. If you want to know how to take these steps, please use the help function in your browser.
 <br><br>
-Wir weisen Sie jedoch darauf hin, dass Sie bei Nichtannahme von Cookies unter Umständen nicht alle Funktionen unserer Webseite nutzen können.</p>
+However, we point out that by not accepting cookies, perhaps not all functions of our website will be available.</p>
                                 <hr />
 
-							<p><strong>Weitergabe von Daten</strong>
+							<p><strong>INFORMATION DISCLOSURE</strong>
 								<br><br>
-								Im Rahmen der Auftragsabwicklung und der Vertragserfüllung geben wir Ihre Daten an von uns beauftragte Dienstleister weiter, insbesondere an Versandunternehmen und Kreditinstitute, sofern dies zur Lieferung und Bezahlung der bestellten Leistung erforderlich ist. Für die Abwicklung von Zahlungen geben wir die erhobenen Zahlungsdaten an beauftragte Kreditinstitute und gegebenenfalls an beauftragte Zahlungsdienstleister weiter. Beauftragte Versandunternehmen erhalten von uns unter anderem Ihre eMail-Adresse und Ihre Telefonnummer, damit sich diese vor Zustellung mit Ihnen hinsichtlich einer Lieferankündigung bzw. -abstimmung in Verbindung setzen können.
+								In the course of the order processing and the fulfillment of a contract, we will transmit your data to service providers, who work on our behalf, in particular shipping companies and credit institutes, if such are required for the delivery and payment of the ordered service. For the transaction of payments, we handover the gathered payment information to the credit institutes charged with them and if necessary, to commissioned payment service providers. Commissioned shipping companies are provided with, inter alia, your email address, and your phone number, so they can reach out prior to the delivery concerning pre-shipment notification or delivery coordination.
 <br><br>
-Ferner geben wir Ihre Daten zur Erfüllung unserer steuerlichen Verpflichtungen an unseren Steuerberater weiter.
+Furthermore, we disclose your data for the fulfillment of our tax obligations to our tax consultant.
 <br><br>
-Eine von Ihnen erteilte Einwilligung können Sie jederzeit (ganz oder nur teilweise) schriftlich, z. B. durch eine Benachrichtigung an unsere eMail-Adresse office@agres.systems, widerrufen. Im Falle eines Widerrufs werden Ihre angegebenen Daten von uns gelöscht, sofern diese nicht für andere Zwecke erforderlich sind oder Sie nicht ausdrücklich einer weiteren Verwendung Ihrer Daten zugestimmt haben. Ferner werden Ihre Daten gelöscht, sofern keine rechtliche Grundlage zur weiteren Verarbeitung Ihrer Daten besteht.</p>
+You can revoke (in whole or in parts) approval given by you at any time, for example via a notification send to our email address office@agres.systems. In the case of a revocation, your indicated data will be deleted by us, provided they aren’t necessary for other causes or you have not explicitly agreed to any further use of your data. Further, your data will be deleted if there is no legal basis for the further processing of your data.</p>
                                 <hr />
 
-							<p><strong>Google Web Fonts</strong>
+							<p><strong>GOOGLE WEB FONTS</strong>
 								<br><br>
-								Auf dieser Webseite sind Google Web Fonts (Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) implementiert, um Schriften online darstellen zu können.
+								On this web page, Google Web Fonts (Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) are implemented, in order to display fonts online.
 <br><br>
-Beim Aufruf einer Seite lädt Ihr Browser die benötigten Web Fonts in ihren Browser-Cache, um Texte und Schriftarten korrekt anzuzeigen. Zu diesem Zweck muss der von Ihnen verwendete Browser Verbindung zu den Servern von Google aufnehmen. Hierdurch erlangt Google Kenntnis darüber, dass über Ihre IP-Adresse unsere Website aufgerufen wurde. Die Nutzung von Google Web Fonts erfolgt im Interesse einer einheitlichen und ansprechenden Darstellung unseres Online-Auftritts. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. Wenn Ihr Browser Web Fonts nicht unterstützt, wird eine Standardschrift von Ihrem Computer genutzt.
+When accessing a site your browser loads the necessary Web Fonts in your browser cache, to display texts and fonts correctly. For this purpose, the browser used by you needs to connect to the servers of Google. Hereby Google gains knowledge of your IP-address being used to access our webpage. The utilization of Google Web Fonts occurs on behalf of the interest of a uniform and appealing presentation of our online presence. This represents a legitimate interest according to Art. 6 para. 1 letter f GDPR. If your browser does not support Web Fonts, a standardized font will be used by your computer.
 <br><br>
-Durch den Einsatz von Google Web Fonts wird beim Nutzen dieses Angebots ein externer Server von Google in den USA aufgerufen, d.h. Google wird theoretisch über die Angebotsnutzung in Kenntnis gesetzt. Weitere datenschutzrechtliche Hinweise finden Sie unter <a href="https://developers.google.com/fonts/faq" target="_blank">https://developers.google.com/fonts/faq</a>.</p>
+Through the use of Google Web Fonts, an external server from Google in the US will be accessed for the utilization of this offer, which in theory means that Google will be informed about your use of this offer. For further information about data protection visit <a href="https://developers.google.com/fonts/faq" target="_blank">https://developers.google.com/fonts/faq</a>.</p>
                                 <hr />
 
-							<p><strong>Postwerbung</strong>
+							<p><strong>POSTAL ADVERTISING</strong>
 								<br><br>
-								Wir behalten uns vor, Ihren Vor- und Nachnamen sowie Ihre Postanschrift für eigene Werbezwecke zu nutzen (z. B. für die Zusendung von Angeboten oder Informationen zu unseren Produkten per Briefpost). Dies dient der Wahrung unserer - im Rahmen einer Interessensabwägung - überwiegenden berechtigten Interessen an einer werblichen Ansprache unserer Kunden.
+								We reserve the right to use your first and last name as well as your mailing address for our own advertising purposes (for example for mailing offers or information about our products via letter post). This serves to preserve – in the course of a balancing of interests – mostly justified interests in making contact with customers.
 <br><br>
-In unserem Auftrag werden die Werbesendungen durch einen Dienstleister erbracht. Hierzu werden wir diesem Ihre Daten übermitteln.</p>
+This advertising mail is rendered on our account by service providers. Therefore, we will transmit your data to them.</p>
                                 <hr />
 
-							<p><strong>Betroffenenrechte</strong>
+							<p><strong>RIGHTS OF THE PERSONS AFFECTED</strong>
 								<br><br>
-								Wir weisen Sie an dieser Stelle auf Ihre Rechte als Betroffener hin:
+								We notify you at this point of your rights as the person affected:
 <ul>
-<li>Rechte auf Auskunft iSd Art 15 DSGVO,</li>
-<li>Recht auf Berichtigung oder Löschung iSd Art 16 und Art 17 DSGVO,</li>
-<li>Recht auf Einschränkung der Verarbeitung iSd Art 18 DSGVO,</li>
-<li>Recht auf Datenübertragbarkeit iSd Art 20 DSGVO,</li>
-<li>Recht auf Widerspruch gegen die Verarbeitung iSd Art 21 DSGVO.</li>
+<li>Rights of access and rectification as defined by Art 15 GDPR,</li>
+<li>Right of correction or deletion as defined by Art 16 and Art 17 GDPR,</li>
+<li>Right of restriction of the processing as defined by Art 18 GDPR,</li>
+<li>Right of data portability as defined by Art 20 GDPR,</li>
+<li>Right to object to the processing as defined by Art 21 GDPR.</li>
 </ul>
-Ihre oben genannten Rechte können Sie jederzeit, ganz oder nur teilweise, durch formloses Schreiben, ohne Angabe von Gründen postalisch oder per eMail an die oben genannten Kontaktdaten der verantwortlichen Stelle bzw. des Datenschutzbeauftragen geltend machen.
+You can exercise your rights mentioned above, at any time, in whole or in part, by sending an informal letter, without listing any reasons, by letter post, or email to the contact data above of the responsible authority or rather the data protection commissioner.
 <br><br>
-Wir ersuchen bei Ausübung des Widerspruchs gegen die Verarbeitung Ihrer personenbezogenen Daten um Darlegung der Gründe, weshalb wir Ihre personenbezogenen Daten nicht mehr verarbeiten sollten. Im Falle Ihres begründeten Widerspruchs prüfen wir die Sachlage und werden entweder die Verarbeitung Ihrer personenbezogenen Daten beenden bzw. anpassen oder Ihnen unsere zwingenden schutzwürdigen Gründe mitteilen, aufgrund derer wir die Datenverarbeitung fortführen.
+We request, that if you oppose your personal data being processed further, you state your reasons for the objection, and why we should no longer process your personal data. In case of your valid objection, we will examine the situation and will either stop the processing of your data, adjust it or inform you about our mandatory, protection worthy reasons, based on which we will continue the data processing.
 <br><br>
-Sofern Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, haben Sie darüber hinaus das Recht, sich bei der sachlich zuständigen Aufsichtsbehörde zu beschweren.</p>
+If you are convinced, that the processing of your personal data is against the data protection law or that your data protection rights have been compromised in any way, you furthermore have the right to file a complaint with the competent supervisory authority.</p>
                                 <hr />
 
-						<p><strong>Widerspruchsrecht</strong>
+						<p><strong>RIGHT TO OBJECT</strong>
 								<br><br>
-								Insofern wir zur Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen personenbezogene Daten verarbeiten, können Sie dieser Verarbeitung mit Wirkung für die Zukunft ohne Angabe von Gründen, vollständig oder teilweise, schriftlich widersprechen. Erfolgt die Verarbeitung zu Zwecken des Direktmarketings, können Sie dieses Recht jederzeit wie oben beschrieben ausüben. Soweit die Verarbeitung zu anderen Zwecken erfolgt, steht Ihnen ein Widerspruchsrecht nur bei Vorliegen von Gründen, die sich aus Ihrer höchstpersönlichen Situation ergeben, zu.
+								Insofar we process personal data to preserve in the course of a balancing of interests mostly justified interests, you can object in writing to the processing wholly or partly, with effect for the future, without giving any reason. If the processing takes place for the purpose of direct marketing, you can exercise this right at any time as described above. Insofar the processing serves other purposes, your right to object remains, if you are able to present reasons which are a result of your very own personal situation.
 <br><br>
-Nach Ausübung Ihres Widerspruchsrechts werden wir Ihre personenbezogenen Daten nicht weiter zu diesen Zwecken verarbeiten, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder wenn die Verarbeitung der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen dient.</p>
+After executing your right to object, your personal data will no longer be processed for these purposes, unless we are able to prove protection worthy reasons for the processing, which outweigh your personal interests, rights, and freedoms or if the processing serves the assertion, exertion or defense of legal claims.</p>
 
                             </div>
                             <!-- <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">

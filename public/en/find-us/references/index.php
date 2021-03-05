@@ -54,17 +54,16 @@ $nav = "references";
                                                                 <td colspan="2">Società Agricola Leona S.S.<br>44021 Codigoro, Italy</td>
                                                             </tr>
                                                             <tr>
-                                                                <td><strong>Anlage:</strong></td>
-                                                                <td colspan="2">automatische Krananlage, Schredder, Steinabscheider<br>
-																ECONOMIZER SE 2.5</td>
+                                                                <td><strong>Installation:</strong></td>
+                                                                <td colspan="2">automatic gantry crane, shredder, stone separator, ECONOMIZER SE 2.5</td>
                                                             </tr>
                                                             <tr>
-                                                                <td><strong>Substrat:</strong></td>
-                                                                <td colspan="2">Getreide-Stroh (ca. 7.000 to/Jahr)</td>
+                                                                <td><strong>Feedstock:</strong></td>
+                                                                <td colspan="2">cereal straw (ca. 7,000 tons/year)</td>
                                                             </tr>
                                                             <tr>
-                                                                <td><strong>Anwendung:</strong></td>
-                                                                <td colspan="2">Substratversorgung für Biomethan-Anlage</td>
+                                                                <td><strong>Application:</strong></td>
+                                                                <td colspan="2">feedstock supply for gas2grid plant</td>
                                                             </tr>
 
                                                         </tbody>
@@ -89,17 +88,17 @@ $nav = "references";
                                                                 <td colspan="2">Teofipolskey Sugar Mill<br>30600 Teofipol, Ukraine</td>
                                                             </tr>
                                                             <tr>
-                                                                <td><strong>Anlage:</strong></td>
-                                                                <td colspan="2">3 Linien: automatische Krananlage, Schredder, Steinabscheider<br>
-																6 Linien: ECONOMIZER SE 2.5</td>
+                                                                <td><strong>Installation:</strong></td>
+                                                                <td colspan="2">3 lines: automatic gantry crane, shredder, stone separator<br>
+																6 lines ECONOMIZER SE 2.5</td>
                                                             </tr>
                                                             <tr>
-                                                                <td><strong>Substrat:</strong></td>
-                                                                <td colspan="2">Getreide-Stroh (ca. 40.000 to/Jahr)</td>
+                                                                <td><strong>Feedstock:</strong></td>
+                                                                <td colspan="2">cereal straw (ca. 40,000 tons/year)</td>
                                                             </tr>
                                                             <tr>
-                                                                <td><strong>Anwendung:</strong></td>
-                                                                <td colspan="2">Substratversorgung für Biogas-Anlage</td>
+                                                                <td><strong>Application:</strong></td>
+                                                                <td colspan="2">feedstock supply for biogas plant</td>
                                                             </tr>
 
                                                         </tbody>
@@ -121,21 +120,21 @@ $nav = "references";
                                                         <tbody>
                                                             <tr>
                                                                 <td><strong>Client:</strong></td>
-                                                                <td colspan="2">Outnature GmbH<br>Energiepark Hahnennest</td>
+                                                                <td colspan="2">Outnature GmbH<br>Energiepark Hahnennest, Germany</td>
                                                             </tr>
                                                             <tr>
-                                                                <td><strong>Anlage:</strong></td>
-                                                                <td colspan="2">2 Linien: ECONOMIZER SE 2.5<br>
-																1 Linie: AGROWFIBER 5.0</td>
+                                                                <td><strong>Installation:</strong></td>
+                                                                <td colspan="2">2 lines: ECONOMIZER SE 2.5<br>
+																1 line: AGROWFIBER 5.0</td>
                                                             </tr>
                                                             <tr>
-                                                                <td><strong>Substrat:</strong></td>
-                                                                <td colspan="2">Durchwachsene Silphie <em>&#040;silphium perfoliatum&#041;</em></td>
+                                                                <td><strong>Feedstock:</strong></td>
+                                                                <td colspan="2">cup plant <em>&#040;silphium perfoliatum&#041;</em></td>
                                                             </tr>
                                                             <tr>
-                                                                <td><strong>Anwendung:</strong></td>
-                                                                <td colspan="2">Zellstoff-Erzeugung<br>
-		Substratversorgung für Biogas-Anlage</td>
+                                                                <td><strong>Application:</strong></td>
+                                                                <td colspan="2">cellulose/pulp production<br>
+		feedstock supply for biogas plant</td>
                                                             </tr>
 
                                                         </tbody>

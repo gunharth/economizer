@@ -20,9 +20,9 @@ $nav = "";
             <main class="container-lg">
                 <div class="row">
                     <div class="col-md-4 col-xxl-3">
-                        <h1><span class="orange forcelinebreak">Das</span> Impressum</h1>
+                        <h1><span class="orange forcelinebreak">The</span> Imprint</h1>
                         <p class="h1-subtext font-weight-bold">
-                            Informationspflicht lt. &sect; 5 Abs. 1 E-Commerce-Gesetz und Offenlegungspflicht gemäß Mediengesetz &sect; 25.
+                            Obligation to inform according to <br>§5 par. 1 E-Commerce-Law and <br>obligation to disclose according to Media Law § 25
                             <?php include($include_path . 'templates/_zitatszeichen.php'); ?>
                         </p>
                         <hr class="d-block d-md-none" />
@@ -33,32 +33,32 @@ $nav = "";
                         <div class="row">
                             <div class="col-xl-12">
                                 <h2>AGRES SYSTEMS GmbH</h2>
-								<p>Für den Inhalt dieser Webseite verantwortlich ist:<br></p>
-								<p><strong>Firmenwortlaut</strong> AGRES SYSTEMS GmbH</p>
-								<p><strong>Geschäftsführer</strong> DI Helge Leinich</p>
-								<p><strong>UID-Nummer</strong> ATU75675903</p>
-								<p><strong>Firmenbuchnummer/-gericht</strong> FN 534497a, Landesgericht Graz</p>
-								<p><strong>Firmensitz</strong> Graz / <strong>Produktionsstandort</strong> Gewerbestr. 2, 5201 Seekirchen am Wallersee, Österreich</p>
-								<p><strong>Telefon</strong> +43 676 5745829</p>
+								<p>Responsible for the content of this Website is:<br></p>
+								<p><strong>Company name</strong> AGRES SYSTEMS GmbH</p>
+								<p><strong>Managing Director</strong> DI Helge Leinich</p>
+								<p><strong>VAT No.</strong> ATU75675903</p>
+								<p><strong>Company register No.</strong> FN 534497a, LG Graz</p>
+								<p><strong>Head office</strong> Graz / <strong>Production site</strong> Gewerbestr. 2, 5201 Seekirchen am Wallersee, Austria</p>
+								<p><strong>Phone</strong> +43 676 5745829</p>
 								<p><strong>eMail</strong> <a href="mailto: office@agres.systems">office@agres.systems</a></p>
-								<p><strong>Mitglied</strong> WKÖ</p>
-								<p><strong>Gewerbe</strong> Mechatroniker für Elektromaschinenbau und Automatisierung verbunden mit Mechatroniker für Maschinen- und Fertigungstechnik; Mechatroniker für Elektronik, Büro- und EDV-Systemtechnik; Mechatroniker für Medizingerätetechnik (verbundenes Handwerk)</p>
+								<p><strong>Member</strong> of the WKÖ (Austrian Chamber of Commerce)</p>
+								<p><strong>Business</strong> Mechatronics for electromechanical engineering and automation in connection with mechatronics for machine technology and manufacturing engineering; mechatronics for electronics, office and IT technologies; mechatronics for medical technologies (affiliated trades)</p>
 								<hr />
-								<p>Verbraucher haben die Möglichkeit, Beschwerden an die Online-Streitbeilegungsplattform der EU zu richten: <a href="http://ec.europa.eu/odr" target="_blank">http://ec.europa.eu/odr</a>. Sie können allfällige Beschwerden auch an die oben angegebene eMailadresse richten.</p>
+								<p>Consumers shall address any claims to the Online-Dispute-Settling-Platform of the EC: <a href="http://ec.europa.eu/odr" target="_blank">http://ec.europa.eu/odr</a>. Also you may address any complaints to the email address listed above.</p>
 								<hr />
-								<p><strong>Marken- und Patentschutzrechte</strong><br>
-								Die Produktbezeichnungen ECONOMIZER, ECONOMAIZE und AGROWFIBER sind geschützte Marken. Jegliche kommerzielle Nutzung und/oder Verwendung dieser Produktbezeichnungen ist ohne ausdrückliche und schriftliche Zustimmung der AGRES SYSTEMS GmbH untersagt. Die ECONOMIZER-Technologie ist patentrechtlich geschützt. Die AGROWFIBER-Technologie ist zum Patent angemeldet.</p>
+								<p><strong>Registered brands, trademarks and patents</strong><br>
+								The product names ECONOMIZER, ECONOMAIZE and AGROWFIBER are registered trademarks. Any commercial utilisation and/or use of these brands is prohibited, if not explicitely approved by AGRES SYSTEMS GmbH in writing. The ECONOMIZER-technology is patent protected. The AGROWFIBER-technology is applied for patent.</p>
                                 <hr />
-								<p><strong>Fotos, Bilder und Videos</strong><br>
-								Jegliche Verbreitung, Reproduktion und/oder Verwendung der Fotos, Bilder und Videos, die auf dieser Website eingebunden sind, ist ohne ausdrückliche und schriftliche Zustimmung der AGRES SYSTEMS GmbH untersagt: © AGRES SYSTEMS GmbH, Martin Dauser<br><br>
-								Externe Bildnachweise:<br>
-								Wir sind - Die Firma: (Portrait- und Gruppenfoto) © Raggio Dorato Photography<br>
-								Wir bieten - Unsere Kunden: Harvested oil palm fruits with workers in background © t4nkyong / Adobe Stock Bilder, LKW lädt Container mit Grünschnitt auf dem Wertstoffhof auf © Kzenon / Adobe Stock Bilder<br>
-								Wir bieten - Die Broschüren (Deckblatt Broschüren) / Impressum / Datenschutz: © Matthis Dierkes / photocase.de<br>
-								Weitere: pixabay.com, unsplash.com</p>
+								<p><strong>Pictures, videos and schemes</strong><br>
+								Any distribution, reproduction and/or use of pictures and schemes shown on this Website is prohibited, if not explicitely approved by AGRES SYSTEMS GmbH in writing.<br><br>
+								External picture credits:<br>
+								We are - The Company: (Portrait- and group foto) © Raggio Dorato Photography<br>
+								We offer - Our clients: Harvested oil palm fruits with workers in background © t4nkyong / Adobe Stock Bilder, Truck loads containers with green waste at the recycling center © Kzenon / Adobe Stock Bilder<br>
+								Find us - The brochures (Cover brochures) / Imprint / Disclaimer: © Matthis Dierkes / photocase.de<br>
+								Further: pixabay.com, unsplash.com</p>
 								<hr />
                                 <p><strong>Webdesign</strong> <a href="https://www.bit-pool.com/" target="_blank">www.bit-pool.com</a> / Silke Sporn</p>
-								<p><strong>Programmierung</strong> <a href="https://gunharth.io/" target="_blank">https://gunharth.io</a> / Gunharth Randolf</p>
+								<p><strong>Programming</strong> <a href="https://gunharth.io/" target="_blank">https://gunharth.io</a> / Gunharth Randolf</p>
 
                             </div>
                             <!-- <div class="col-xl-4 col-xxl-6 d-flex flex-xl-column flex-xxl-row justify-content-between justify-content-xl-start justify-content-xxl-between align-items-start">
