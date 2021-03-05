@@ -38,6 +38,7 @@ try {
     //Recipients
     $mail->setFrom('office@agres.systems', 'Agres Systems');
     $mail->addReplyTo('office@agres.systems', 'Agres Systems');
+    //$mail->addAddress('office@agres.systems');
     $mail->addAddress('s.sporn@bit-pool.com');
 
     // Content
